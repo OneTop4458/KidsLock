@@ -1,0 +1,1892 @@
+ test
+
+ Timestamp is 5b27b39b (Mon Jun 18 22:28:59 2018)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000254H .idata$5                CODE
+ 0001:00000258 000018e0H .rdata                  CODE
+ 0001:00001b40 000a23c0H .text                   CODE
+ 0001:000a3f00 00000004H .text$0                 CODE
+ 0001:000a3f10 0004d1c0H .text$1                 CODE
+ 0001:000f10d0 00000004H .text$2                 CODE
+ 0001:000f10d4 00000014H .idata$2                CODE
+ 0001:000f10e8 00000014H .idata$3                CODE
+ 0001:000f10fc 00000254H .idata$4                CODE
+ 0001:000f1350 000007c4H .idata$6                CODE
+ 0001:000f1b14 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 00007f94H .bss                    DATA
+ 0003:00000000 000001a8H .rsrc$01                DATA
+ 0003:000001b0 00018854H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp____vbaStrI2          00401000     test.OBJ
+ 0001:00000000       __imp_@__vbaStrI2          00401000     test.OBJ
+ 0001:00000004       __imp_@__vba@083D9698      00401004     test.OBJ
+ 0001:00000004       __imp____vba@083D9698      00401004     test.OBJ
+ 0001:00000008       __imp___CIcos              00401008     test.OBJ
+ 0001:0000000c       __imp___adj_fptan          0040100c     test.OBJ
+ 0001:00000010       __imp_@__vbaVarMove        00401010     test.OBJ
+ 0001:00000010       __imp____vbaVarMove        00401010     test.OBJ
+ 0001:00000014       __imp_@__vbaStrI4          00401014     test.OBJ
+ 0001:00000014       __imp____vbaStrI4          00401014     test.OBJ
+ 0001:00000018       __imp____vbaVarVargNofree  00401018     test.OBJ
+ 0001:00000018       __imp_@__vbaVarVargNofree  00401018     test.OBJ
+ 0001:0000001c       __imp____vbaAryMove        0040101c     test.OBJ
+ 0001:0000001c       __imp_@__vbaAryMove        0040101c     test.OBJ
+ 0001:00000020       __imp_@__vbaFreeVar        00401020     test.OBJ
+ 0001:00000020       __imp____vbaFreeVar        00401020     test.OBJ
+ 0001:00000024       __imp____vba@084F3A4C      00401024     test.OBJ
+ 0001:00000024       __imp_@__vba@084F3A4C      00401024     test.OBJ
+ 0001:00000028       __imp_@__vbaLenBstr        00401028     test.OBJ
+ 0001:00000028       __imp____vbaLenBstr        00401028     test.OBJ
+ 0001:0000002c       __imp____vbaStrVarMove     0040102c     test.OBJ
+ 0001:0000002c       __imp_@__vbaStrVarMove     0040102c     test.OBJ
+ 0001:00000030       __imp_@__vbaEnd            00401030     test.OBJ
+ 0001:00000030       __imp____vbaEnd            00401030     test.OBJ
+ 0001:00000034       __imp_@__vbaFreeVarList    00401034     test.OBJ
+ 0001:00000034       __imp____vbaFreeVarList    00401034     test.OBJ
+ 0001:00000038       __imp___adj_fdiv_m64       00401038     test.OBJ
+ 0001:0000003c       __imp_@__vbaNextEachVar    0040103c     test.OBJ
+ 0001:0000003c       __imp____vbaNextEachVar    0040103c     test.OBJ
+ 0001:00000040       __imp____vbaRaiseEvent     00401040     test.OBJ
+ 0001:00000040       __imp_@__vbaRaiseEvent     00401040     test.OBJ
+ 0001:00000044       __imp_@__vbaFreeObjList    00401044     test.OBJ
+ 0001:00000044       __imp____vbaFreeObjList    00401044     test.OBJ
+ 0001:00000048       __imp____vba@083D9D80      00401048     test.OBJ
+ 0001:00000048       __imp_@__vba@083D9D80      00401048     test.OBJ
+ 0001:0000004c       __imp___adj_fprem1         0040104c     test.OBJ
+ 0001:00000050       __imp_@__vba@084DBA1C      00401050     test.OBJ
+ 0001:00000050       __imp____vba@084DBA1C      00401050     test.OBJ
+ 0001:00000054       __imp_@__vbaRecAnsiToUni   00401054     test.OBJ
+ 0001:00000054       __imp____vbaRecAnsiToUni   00401054     test.OBJ
+ 0001:00000058       __imp_@__vba@084DC430      00401058     test.OBJ
+ 0001:00000058       __imp____vba@084DC430      00401058     test.OBJ
+ 0001:0000005c       __imp____vbaCopyBytes      0040105c     test.OBJ
+ 0001:0000005c       __imp_@__vbaCopyBytes      0040105c     test.OBJ
+ 0001:00000060       __imp_@__vbaStrCat         00401060     test.OBJ
+ 0001:00000060       __imp____vbaStrCat         00401060     test.OBJ
+ 0001:00000064       __imp____vbaError          00401064     test.OBJ
+ 0001:00000064       __imp_@__vbaError          00401064     test.OBJ
+ 0001:00000068       __imp_@__vbaLsetFixstr     00401068     test.OBJ
+ 0001:00000068       __imp____vbaLsetFixstr     00401068     test.OBJ
+ 0001:0000006c       __imp_@__vbaSetSystemError 0040106c     test.OBJ
+ 0001:0000006c       __imp____vbaSetSystemError 0040106c     test.OBJ
+ 0001:00000070       __imp____vbaLenBstrB       00401070     test.OBJ
+ 0001:00000070       __imp_@__vbaLenBstrB       00401070     test.OBJ
+ 0001:00000074       __imp_@__vbaHresultCheckObj 00401074     test.OBJ
+ 0001:00000074       __imp____vbaHresultCheckObj 00401074     test.OBJ
+ 0001:00000078       __imp___adj_fdiv_m32       00401078     test.OBJ
+ 0001:0000007c       __imp_@__vba@083DB334      0040107c     test.OBJ
+ 0001:0000007c       __imp____vba@083DB334      0040107c     test.OBJ
+ 0001:00000080       __imp____vbaAryDestruct    00401080     test.OBJ
+ 0001:00000080       __imp_@__vbaAryDestruct    00401080     test.OBJ
+ 0001:00000084       __imp____vba@084D9A2C      00401084     test.OBJ
+ 0001:00000084       __imp_@__vba@084D9A2C      00401084     test.OBJ
+ 0001:00000088       __imp____vbaLateMemSt      00401088     test.OBJ
+ 0001:00000088       __imp_@__vbaLateMemSt      00401088     test.OBJ
+ 0001:0000008c       __imp____vbaExitProc       0040108c     test.OBJ
+ 0001:0000008c       __imp_@__vbaExitProc       0040108c     test.OBJ
+ 0001:00000090       __imp____vbaBoolStr        00401090     test.OBJ
+ 0001:00000090       __imp_@__vbaBoolStr        00401090     test.OBJ
+ 0001:00000094       __imp____vbaI4Abs          00401094     test.OBJ
+ 0001:00000094       __imp_@__vbaI4Abs          00401094     test.OBJ
+ 0001:00000098       __imp____vba@083D9720      00401098     test.OBJ
+ 0001:00000098       __imp_@__vba@083D9720      00401098     test.OBJ
+ 0001:0000009c       __imp____vbaOnError        0040109c     test.OBJ
+ 0001:0000009c       __imp_@__vbaOnError        0040109c     test.OBJ
+ 0001:000000a0       __imp____vbaObjSet         004010a0     test.OBJ
+ 0001:000000a0       __imp_@__vbaObjSet         004010a0     test.OBJ
+ 0001:000000a4       __imp___adj_fdiv_m16i      004010a4     test.OBJ
+ 0001:000000a8       __imp____vbaObjSetAddref   004010a8     test.OBJ
+ 0001:000000a8       __imp_@__vbaObjSetAddref   004010a8     test.OBJ
+ 0001:000000ac       __imp___adj_fdivr_m16i     004010ac     test.OBJ
+ 0001:000000b0       __imp____vbaStrFixstr      004010b0     test.OBJ
+ 0001:000000b0       __imp_@__vbaStrFixstr      004010b0     test.OBJ
+ 0001:000000b4       __imp____vbaBoolVar        004010b4     test.OBJ
+ 0001:000000b4       __imp_@__vbaBoolVar        004010b4     test.OBJ
+ 0001:000000b8       __imp_@__vbaFpR8           004010b8     test.OBJ
+ 0001:000000b8       __imp____vbaFpR8           004010b8     test.OBJ
+ 0001:000000bc       __imp___CIsin              004010bc     test.OBJ
+ 0001:000000c0       __imp____vba@084F3B68      004010c0     test.OBJ
+ 0001:000000c0       __imp_@__vba@084F3B68      004010c0     test.OBJ
+ 0001:000000c4       __imp_@__vbaErase          004010c4     test.OBJ
+ 0001:000000c4       __imp____vbaErase          004010c4     test.OBJ
+ 0001:000000c8       __imp____vbaVarZero        004010c8     test.OBJ
+ 0001:000000c8       __imp_@__vbaVarZero        004010c8     test.OBJ
+ 0001:000000cc       __imp____vba@083D9CFC      004010cc     test.OBJ
+ 0001:000000cc       __imp_@__vba@083D9CFC      004010cc     test.OBJ
+ 0001:000000d0       __imp_@__vba@083DB8C4      004010d0     test.OBJ
+ 0001:000000d0       __imp____vba@083DB8C4      004010d0     test.OBJ
+ 0001:000000d4       __imp____vbaChkstk         004010d4     test.OBJ
+ 0001:000000d8       __imp____vbaFileClose      004010d8     test.OBJ
+ 0001:000000d8       __imp_@__vbaFileClose      004010d8     test.OBJ
+ 0001:000000e0       __imp_@__vbaGenerateBoundsError 004010e0     test.OBJ
+ 0001:000000e0       __imp____vbaGenerateBoundsError 004010e0     test.OBJ
+ 0001:000000e4       __imp_@__vbaStrCmp         004010e4     test.OBJ
+ 0001:000000e4       __imp____vbaStrCmp         004010e4     test.OBJ
+ 0001:000000e8       __imp_@__vbaVarTstEq       004010e8     test.OBJ
+ 0001:000000e8       __imp____vbaVarTstEq       004010e8     test.OBJ
+ 0001:000000ec       __imp_@__vbaAryConstruct2  004010ec     test.OBJ
+ 0001:000000ec       __imp____vbaAryConstruct2  004010ec     test.OBJ
+ 0001:000000f0       __imp____vbaObjVar         004010f0     test.OBJ
+ 0001:000000f0       __imp_@__vbaObjVar         004010f0     test.OBJ
+ 0001:000000f4       __imp____vbaI2I4           004010f4     test.OBJ
+ 0001:000000f4       __imp_@__vbaI2I4           004010f4     test.OBJ
+ 0001:000000fc       __imp____vbaVarOr          004010fc     test.OBJ
+ 0001:000000fc       __imp_@__vbaVarOr          004010fc     test.OBJ
+ 0001:00000100       __imp_@__vbaFpUI1          00401100     test.OBJ
+ 0001:00000100       __imp____vbaFpUI1          00401100     test.OBJ
+ 0001:00000104       __imp_@__vbaCastObjVar     00401104     test.OBJ
+ 0001:00000104       __imp____vbaCastObjVar     00401104     test.OBJ
+ 0001:00000108       __imp____vbaRedimPreserve  00401108     test.OBJ
+ 0001:00000108       __imp_@__vbaRedimPreserve  00401108     test.OBJ
+ 0001:0000010c       __imp___adj_fpatan         0040110c     test.OBJ
+ 0001:00000110       __imp_@__vba@0849D4F4      00401110     test.OBJ
+ 0001:00000110       __imp____vba@0849D4F4      00401110     test.OBJ
+ 0001:00000114       __imp_@__vbaLateIdCallLd   00401114     test.OBJ
+ 0001:00000114       __imp____vbaLateIdCallLd   00401114     test.OBJ
+ 0001:00000118       __imp____vbaStrR8          00401118     test.OBJ
+ 0001:00000118       __imp_@__vbaStrR8          00401118     test.OBJ
+ 0001:0000011c       __imp_@__vbaRedim          0040111c     test.OBJ
+ 0001:0000011c       __imp____vbaRedim          0040111c     test.OBJ
+ 0001:00000120       __imp_@__vbaRecUniToAnsi   00401120     test.OBJ
+ 0001:00000120       __imp____vbaRecUniToAnsi   00401120     test.OBJ
+ 0001:00000128       __imp____vbaNew            00401128     test.OBJ
+ 0001:00000128       __imp_@__vbaNew            00401128     test.OBJ
+ 0001:0000012c       __imp_@__vba@084DCCB0      0040112c     test.OBJ
+ 0001:0000012c       __imp____vba@084DCCB0      0040112c     test.OBJ
+ 0001:00000130       __imp_@__vbaUI1I2          00401130     test.OBJ
+ 0001:00000130       __imp____vbaUI1I2          00401130     test.OBJ
+ 0001:00000134       __imp___CIsqrt             00401134     test.OBJ
+ 0001:00000138       __imp____vbaObjIs          00401138     test.OBJ
+ 0001:00000138       __imp_@__vbaObjIs          00401138     test.OBJ
+ 0001:00000140       __imp_@__vbaStrUI1         00401140     test.OBJ
+ 0001:00000140       __imp____vbaStrUI1         00401140     test.OBJ
+ 0001:00000144       __imp_@__vbaVarMul         00401144     test.OBJ
+ 0001:00000144       __imp____vbaVarMul         00401144     test.OBJ
+ 0001:00000148       __imp_@__vbaUI1I4          00401148     test.OBJ
+ 0001:00000148       __imp____vbaUI1I4          00401148     test.OBJ
+ 0001:0000014c       __imp____vbaExceptHandler  0040114c     test.OBJ
+ 0001:00000150       __imp_@__vbaStrToUnicode   00401150     test.OBJ
+ 0001:00000150       __imp____vbaStrToUnicode   00401150     test.OBJ
+ 0001:00000154       __imp___adj_fprem          00401154     test.OBJ
+ 0001:00000158       __imp___adj_fdivr_m64      00401158     test.OBJ
+ 0001:0000015c       __imp_@__vbaI2Str          0040115c     test.OBJ
+ 0001:0000015c       __imp____vbaI2Str          0040115c     test.OBJ
+ 0001:00000160       __imp____vbaVarDiv         00401160     test.OBJ
+ 0001:00000160       __imp_@__vbaVarDiv         00401160     test.OBJ
+ 0001:00000164       __imp_@__vba@083DB4F4      00401164     test.OBJ
+ 0001:00000164       __imp____vba@083DB4F4      00401164     test.OBJ
+ 0001:00000168       __imp_@__vba@084DAE4C      00401168     test.OBJ
+ 0001:00000168       __imp____vba@084DAE4C      00401168     test.OBJ
+ 0001:0000016c       __imp____vbaFPException    0040116c     test.OBJ
+ 0001:00000170       __imp____vba@084D9D0C      00401170     test.OBJ
+ 0001:00000170       __imp_@__vba@084D9D0C      00401170     test.OBJ
+ 0001:00000174       __imp____vbaUbound         00401174     test.OBJ
+ 0001:00000174       __imp_@__vbaUbound         00401174     test.OBJ
+ 0001:00000178       __imp_@__vbaGetOwner3      00401178     test.OBJ
+ 0001:00000178       __imp____vbaGetOwner3      00401178     test.OBJ
+ 0001:0000017c       __imp_@__vbaStrVarVal      0040117c     test.OBJ
+ 0001:0000017c       __imp____vbaStrVarVal      0040117c     test.OBJ
+ 0001:00000180       __imp____vbaVarCat         00401180     test.OBJ
+ 0001:00000180       __imp_@__vbaVarCat         00401180     test.OBJ
+ 0001:00000184       __imp_@__vbaI2Var          00401184     test.OBJ
+ 0001:00000184       __imp____vbaI2Var          00401184     test.OBJ
+ 0001:00000188       __imp____vba@084F4338      00401188     test.OBJ
+ 0001:00000188       __imp_@__vba@084F4338      00401188     test.OBJ
+ 0001:0000018c       __imp___CIlog              0040118c     test.OBJ
+ 0001:00000190       __imp____vbaErrorOverflow  00401190     test.OBJ
+ 0001:00000190       __imp_@__vbaErrorOverflow  00401190     test.OBJ
+ 0001:00000194       __imp_@__vbaFileOpen       00401194     test.OBJ
+ 0001:00000194       __imp____vbaFileOpen       00401194     test.OBJ
+ 0001:00000198       __imp_@__vbaInStr          00401198     test.OBJ
+ 0001:00000198       __imp____vbaInStr          00401198     test.OBJ
+ 0001:0000019c       __imp____vbaVarLateMemCallLdRf 0040119c     test.OBJ
+ 0001:0000019c       __imp_@__vbaVarLateMemCallLdRf 0040119c     test.OBJ
+ 0001:000001a0       __imp_@__vba@083D9FCC      004011a0     test.OBJ
+ 0001:000001a0       __imp____vba@083D9FCC      004011a0     test.OBJ
+ 0001:000001a4       __imp_@__vbaR8Str          004011a4     test.OBJ
+ 0001:000001a4       __imp____vbaR8Str          004011a4     test.OBJ
+ 0001:000001a8       __imp____vbaNew2           004011a8     test.OBJ
+ 0001:000001a8       __imp_@__vbaNew2           004011a8     test.OBJ
+ 0001:000001ac       __imp____vba@0849D578      004011ac     test.OBJ
+ 0001:000001ac       __imp_@__vba@0849D578      004011ac     test.OBJ
+ 0001:000001b0       __imp___adj_fdiv_m32i      004011b0     test.OBJ
+ 0001:000001b4       __imp____vba@084DB1FC      004011b4     test.OBJ
+ 0001:000001b4       __imp_@__vba@084DB1FC      004011b4     test.OBJ
+ 0001:000001b8       __imp___adj_fdivr_m32i     004011b8     test.OBJ
+ 0001:000001bc       __imp_@__vba@083D9C7C      004011bc     test.OBJ
+ 0001:000001bc       __imp____vba@083D9C7C      004011bc     test.OBJ
+ 0001:000001c0       __imp_@__vbaStrCopy        004011c0     test.OBJ
+ 0001:000001c0       __imp____vbaStrCopy        004011c0     test.OBJ
+ 0001:000001c4       __imp_@__vbaI4Str          004011c4     test.OBJ
+ 0001:000001c4       __imp____vbaI4Str          004011c4     test.OBJ
+ 0001:000001c8       __imp____vba@084F43B8      004011c8     test.OBJ
+ 0001:000001c8       __imp_@__vba@084F43B8      004011c8     test.OBJ
+ 0001:000001cc       __imp_@__vbaFreeStrList    004011cc     test.OBJ
+ 0001:000001cc       __imp____vbaFreeStrList    004011cc     test.OBJ
+ 0001:000001d0       __imp___adj_fdivr_m32      004011d0     test.OBJ
+ 0001:000001d4       __imp___adj_fdiv_r         004011d4     test.OBJ
+ 0001:000001d8       __imp____vba@084DA15C      004011d8     test.OBJ
+ 0001:000001d8       __imp_@__vba@084DA15C      004011d8     test.OBJ
+ 0001:000001e0       __imp____vbaVarTstNe       004011e0     test.OBJ
+ 0001:000001e0       __imp_@__vbaVarTstNe       004011e0     test.OBJ
+ 0001:000001e4       __imp____vbaVarSetVar      004011e4     test.OBJ
+ 0001:000001e4       __imp_@__vbaVarSetVar      004011e4     test.OBJ
+ 0001:000001e8       __imp_@__vbaI4Var          004011e8     test.OBJ
+ 0001:000001e8       __imp____vbaI4Var          004011e8     test.OBJ
+ 0001:000001ec       __imp____vba@084DA83C      004011ec     test.OBJ
+ 0001:000001ec       __imp_@__vba@084DA83C      004011ec     test.OBJ
+ 0001:000001f0       __imp_@__vbaLateMemCall    004011f0     test.OBJ
+ 0001:000001f0       __imp____vbaLateMemCall    004011f0     test.OBJ
+ 0001:000001f4       __imp_@__vbaAryLock        004011f4     test.OBJ
+ 0001:000001f4       __imp____vbaAryLock        004011f4     test.OBJ
+ 0001:000001f8       __imp____vbaStrToAnsi      004011f8     test.OBJ
+ 0001:000001f8       __imp_@__vbaStrToAnsi      004011f8     test.OBJ
+ 0001:000001fc       __imp_@__vbaVarDup         004011fc     test.OBJ
+ 0001:000001fc       __imp____vbaVarDup         004011fc     test.OBJ
+ 0001:00000200       __imp_@__vba@084DA1DC      00401200     test.OBJ
+ 0001:00000200       __imp____vba@084DA1DC      00401200     test.OBJ
+ 0001:00000204       __imp_@__vbaFpI2           00401204     test.OBJ
+ 0001:00000204       __imp____vbaFpI2           00401204     test.OBJ
+ 0001:00000208       __imp____vbaVarLateMemCallLd 00401208     test.OBJ
+ 0001:00000208       __imp_@__vbaVarLateMemCallLd 00401208     test.OBJ
+ 0001:0000020c       __imp____vba@083DB840      0040120c     test.OBJ
+ 0001:0000020c       __imp_@__vba@083DB840      0040120c     test.OBJ
+ 0001:00000210       __imp____vbaFpI4           00401210     test.OBJ
+ 0001:00000210       __imp_@__vbaFpI4           00401210     test.OBJ
+ 0001:00000214       __imp____vbaRecDestructAnsi 00401214     test.OBJ
+ 0001:00000214       __imp_@__vbaRecDestructAnsi 00401214     test.OBJ
+ 0001:00000218       __imp____vbaLateMemCallLd  00401218     test.OBJ
+ 0001:00000218       __imp_@__vbaLateMemCallLd  00401218     test.OBJ
+ 0001:0000021c       __imp___CIatan             0040121c     test.OBJ
+ 0001:00000220       __imp____vbaCastObj        00401220     test.OBJ
+ 0001:00000220       __imp_@__vbaCastObj        00401220     test.OBJ
+ 0001:00000224       __imp_@__vbaStrMove        00401224     test.OBJ
+ 0001:00000224       __imp____vbaStrMove        00401224     test.OBJ
+ 0001:00000228       __imp_@__vbaForEachVar     00401228     test.OBJ
+ 0001:00000228       __imp____vbaForEachVar     00401228     test.OBJ
+ 0001:0000022c       __imp___allmul             0040122c     test.OBJ
+ 0001:00000230       __imp_@__vbaLenVarB        00401230     test.OBJ
+ 0001:00000230       __imp____vbaLenVarB        00401230     test.OBJ
+ 0001:00000234       __imp___CItan              00401234     test.OBJ
+ 0001:00000238       __imp____vbaAryUnlock      00401238     test.OBJ
+ 0001:00000238       __imp_@__vbaAryUnlock      00401238     test.OBJ
+ 0001:0000023c       __imp_@__vbaFPInt          0040123c     test.OBJ
+ 0001:0000023c       __imp____vbaFPInt          0040123c     test.OBJ
+ 0001:00000240       __imp___CIexp              00401240     test.OBJ
+ 0001:00000244       __imp____vbaFreeStr        00401244     test.OBJ
+ 0001:00000244       __imp_@__vbaFreeStr        00401244     test.OBJ
+ 0001:00000248       __imp____vbaFreeObj        00401248     test.OBJ
+ 0001:00000248       __imp_@__vbaFreeObj        00401248     test.OBJ
+ 0001:0000024c       __imp_@__vba@084F3BA0      0040124c     test.OBJ
+ 0001:0000024c       __imp____vba@084F3BA0      0040124c     test.OBJ
+ 0001:00000398       __real@8@00000000000000000000 00401398     FormLoad.OBJ
+ 0001:00000540       __real@8@40178000000000000000 00401540     clsMD5.OBJ
+ 0001:00000548       __real@8@400f8000000000000000 00401548     clsMD5.OBJ
+ 0001:00000550       __real@8@40078000000000000000 00401550     clsMD5.OBJ
+ 0001:00000560       __real@8@401dfffffffe00000000 00401560     clsMD5.OBJ
+ 0001:00000568       __real@8@401f8000000000000000 00401568     clsMD5.OBJ
+ 0001:00000608       __real@8@40008000000000000000 00401608     isbutton.OBJ
+ 0001:00000620       __real@8@40059800000000000000 00401620     isbutton.OBJ
+ 0001:00000628       __real@8@40039800000000000000 00401628     isbutton.OBJ
+ 0001:00000630       __real@8@40058000000000000000 00401630     isbutton.OBJ
+ 0001:000006bc       __real@4@3fff8000000000000000 004016bc     isbutton.OBJ
+ 0001:000006d0       __real@8@4003c800000000000000 004016d0     isbutton.OBJ
+ 0001:000006d8       __real@8@3fff8000000000000000 004016d8     isbutton.OBJ
+ 0001:000006e0       __real@4@40018000000000000000 004016e0     isbutton.OBJ
+ 0001:000006e4       __real@4@4001a000000000000000 004016e4     isbutton.OBJ
+ 0001:000006e8       __real@4@40008000000000000000 004016e8     isbutton.OBJ
+ 0001:000006ec       __real@4@4000c000000000000000 004016ec     isbutton.OBJ
+ 0001:00000710       __real@4@4001c000000000000000 00401710     isbutton.OBJ
+ 0001:00000728       __real@4@40029000000000000000 00401728     isbutton.OBJ
+ 0001:0000072c       __real@4@4002a000000000000000 0040172c     isbutton.OBJ
+ 0001:00000730       __real@4@4002b000000000000000 00401730     isbutton.OBJ
+ 0001:00000734       __real@4@4002f000000000000000 00401734     isbutton.OBJ
+ 0001:00000738       __real@4@40028000000000000000 00401738     isbutton.OBJ
+ 0001:0000073c       __real@4@4001e000000000000000 0040173c     isbutton.OBJ
+ 0001:00000830       __real@4@40079600000000000000 00401830     isbutton.OBJ
+ 0001:00000c30       __real@4@00000000000000000000 00401c30     candybuttons.OBJ
+ 0001:00000e88       __real@8@4000c000000000000000 00401e88     candybuttons.OBJ
+ 0001:00001038       __real@8@4006ff00000000000000 00402038     candybuttons.OBJ
+ 0001:00001040       __real@8@3fff8cccccccccccd000 00402040     candybuttons.OBJ
+ 0001:00001600       __real@8@4001e000000000000000 00402600     Formps.OBJ
+ 0001:00001608       __real@8@4001a000000000000000 00402608     Formps.OBJ
+ 0001:00001610       __real@8@40018000000000000000 00402610     Formps.OBJ
+ 0001:00001b40       ___vbaChkstk               00402b40     test.OBJ
+ 0001:00001b40       VB@TEXT                    00402b40     test.OBJ
+ 0001:00001b46       ___vbaExceptHandler        00402b46     test.OBJ
+ 0001:00001b4c       ___vbaFPException          00402b4c     test.OBJ
+ 0001:00001b52       __adj_fdiv_m16i            00402b52     test.OBJ
+ 0001:00001b58       __adj_fdiv_m32             00402b58     test.OBJ
+ 0001:00001b5e       __adj_fdiv_m32i            00402b5e     test.OBJ
+ 0001:00001b64       __adj_fdiv_m64             00402b64     test.OBJ
+ 0001:00001b6a       __adj_fdiv_r               00402b6a     test.OBJ
+ 0001:00001b70       __adj_fdivr_m16i           00402b70     test.OBJ
+ 0001:00001b76       __adj_fdivr_m32            00402b76     test.OBJ
+ 0001:00001b7c       __adj_fdivr_m32i           00402b7c     test.OBJ
+ 0001:00001b82       __adj_fdivr_m64            00402b82     test.OBJ
+ 0001:00001b88       __adj_fpatan               00402b88     test.OBJ
+ 0001:00001b8e       __adj_fprem                00402b8e     test.OBJ
+ 0001:00001b94       __adj_fprem1               00402b94     test.OBJ
+ 0001:00001b9a       __adj_fptan                00402b9a     test.OBJ
+ 0001:00001ba0       __CIatan                   00402ba0     test.OBJ
+ 0001:00001ba6       __CIcos                    00402ba6     test.OBJ
+ 0001:00001bac       __CIexp                    00402bac     test.OBJ
+ 0001:00001bb2       __CIlog                    00402bb2     test.OBJ
+ 0001:00001bb8       __CIsin                    00402bb8     test.OBJ
+ 0001:00001bbe       __CIsqrt                   00402bbe     test.OBJ
+ 0001:00001bc4       __CItan                    00402bc4     test.OBJ
+ 0001:00001bca       __allmul                   00402bca     test.OBJ
+ 0001:00001bd6       ___vbaObjSetAddref         00402bd6     test.OBJ
+ 0001:00001bd6       @__vbaObjSetAddref         00402bd6     test.OBJ
+ 0001:00001bdc       @__vbaNew2                 00402bdc     test.OBJ
+ 0001:00001bdc       ___vbaNew2                 00402bdc     test.OBJ
+ 0001:00001be2       @__vbaErrorOverflow        00402be2     test.OBJ
+ 0001:00001be2       ___vbaErrorOverflow        00402be2     test.OBJ
+ 0001:00001be8       ___vbaUI1I2                00402be8     test.OBJ
+ 0001:00001be8       @__vbaUI1I2                00402be8     test.OBJ
+ 0001:00001bee       ___vbaSetSystemError       00402bee     test.OBJ
+ 0001:00001bee       @__vbaSetSystemError       00402bee     test.OBJ
+ 0001:00001bf4       ___vbaFreeObj              00402bf4     test.OBJ
+ 0001:00001bf4       @__vbaFreeObj              00402bf4     test.OBJ
+ 0001:00001bfa       ___vbaHresultCheckObj      00402bfa     test.OBJ
+ 0001:00001bfa       @__vbaHresultCheckObj      00402bfa     test.OBJ
+ 0001:00001c00       ___vbaObjSet               00402c00     test.OBJ
+ 0001:00001c00       @__vbaObjSet               00402c00     test.OBJ
+ 0001:00001c06       ___vbaFreeVar              00402c06     test.OBJ
+ 0001:00001c06       @__vbaFreeVar              00402c06     test.OBJ
+ 0001:00001c0c       ___vbaFreeStrList          00402c0c     test.OBJ
+ 0001:00001c0c       @__vbaFreeStrList          00402c0c     test.OBJ
+ 0001:00001c12       ___vbaStrCopy              00402c12     test.OBJ
+ 0001:00001c12       @__vbaStrCopy              00402c12     test.OBJ
+ 0001:00001c18       @__vbaVarDup               00402c18     test.OBJ
+ 0001:00001c18       ___vbaVarDup               00402c18     test.OBJ
+ 0001:00001c1e       ___vba@083DB334            00402c1e     test.OBJ
+ 0001:00001c1e       @__vba@083DB334            00402c1e     test.OBJ
+ 0001:00001c24       ___vbaStrCat               00402c24     test.OBJ
+ 0001:00001c24       @__vbaStrCat               00402c24     test.OBJ
+ 0001:00001c2a       ___vbaStrMove              00402c2a     test.OBJ
+ 0001:00001c2a       @__vbaStrMove              00402c2a     test.OBJ
+ 0001:00001c30       @__vbaBoolStr              00402c30     test.OBJ
+ 0001:00001c30       ___vbaBoolStr              00402c30     test.OBJ
+ 0001:00001c36       @__vbaOnError              00402c36     test.OBJ
+ 0001:00001c36       ___vbaOnError              00402c36     test.OBJ
+ 0001:00001c3c       @__vbaFpI4                 00402c3c     test.OBJ
+ 0001:00001c3c       ___vbaFpI4                 00402c3c     test.OBJ
+ 0001:00001c42       @__vbaRecAnsiToUni         00402c42     test.OBJ
+ 0001:00001c42       ___vbaRecAnsiToUni         00402c42     test.OBJ
+ 0001:00001c48       @__vbaRecUniToAnsi         00402c48     test.OBJ
+ 0001:00001c48       ___vbaRecUniToAnsi         00402c48     test.OBJ
+ 0001:00001c4e       @__vbaFreeStr              00402c4e     test.OBJ
+ 0001:00001c4e       ___vbaFreeStr              00402c4e     test.OBJ
+ 0001:00001c54       @__vba@083DB4F4            00402c54     test.OBJ
+ 0001:00001c54       ___vba@083DB4F4            00402c54     test.OBJ
+ 0001:00001c5a       @__vbaVarCat               00402c5a     test.OBJ
+ 0001:00001c5a       ___vbaVarCat               00402c5a     test.OBJ
+ 0001:00001c60       ___vbaStrVarMove           00402c60     test.OBJ
+ 0001:00001c60       @__vbaStrVarMove           00402c60     test.OBJ
+ 0001:00001c66       @__vbaLsetFixstr           00402c66     test.OBJ
+ 0001:00001c66       ___vbaLsetFixstr           00402c66     test.OBJ
+ 0001:00001c6c       @__vbaLateIdCallLd         00402c6c     test.OBJ
+ 0001:00001c6c       ___vbaLateIdCallLd         00402c6c     test.OBJ
+ 0001:00001c72       @__vbaI4Var                00402c72     test.OBJ
+ 0001:00001c72       ___vbaI4Var                00402c72     test.OBJ
+ 0001:00001c78       ___vba@083D9698            00402c78     test.OBJ
+ 0001:00001c78       @__vba@083D9698            00402c78     test.OBJ
+ 0001:00001c7e       @__vbaFreeVarList          00402c7e     test.OBJ
+ 0001:00001c7e       ___vbaFreeVarList          00402c7e     test.OBJ
+ 0001:00001c84       @__vba@083D9720            00402c84     test.OBJ
+ 0001:00001c84       ___vba@083D9720            00402c84     test.OBJ
+ 0001:00001c8a       ___vbaR8Str                00402c8a     test.OBJ
+ 0001:00001c8a       @__vbaR8Str                00402c8a     test.OBJ
+ 0001:00001c90       ___vba@083DB840            00402c90     test.OBJ
+ 0001:00001c90       @__vba@083DB840            00402c90     test.OBJ
+ 0001:00001c96       ___vbaLenBstr              00402c96     test.OBJ
+ 0001:00001c96       @__vbaLenBstr              00402c96     test.OBJ
+ 0001:00001c9c       ___vba@083DB8C4            00402c9c     test.OBJ
+ 0001:00001c9c       @__vba@083DB8C4            00402c9c     test.OBJ
+ 0001:00001ca2       ___vbaStrToUnicode         00402ca2     test.OBJ
+ 0001:00001ca2       @__vbaStrToUnicode         00402ca2     test.OBJ
+ 0001:00001ca8       ___vbaStrToAnsi            00402ca8     test.OBJ
+ 0001:00001ca8       @__vbaStrToAnsi            00402ca8     test.OBJ
+ 0001:00001cae       @__vbaError                00402cae     test.OBJ
+ 0001:00001cae       ___vbaError                00402cae     test.OBJ
+ 0001:00001cb4       ___vbaAryConstruct2        00402cb4     test.OBJ
+ 0001:00001cb4       @__vbaAryConstruct2        00402cb4     test.OBJ
+ 0001:00001cba       ___vba@083D9C7C            00402cba     test.OBJ
+ 0001:00001cba       @__vba@083D9C7C            00402cba     test.OBJ
+ 0001:00001cc0       ___vbaUI1I4                00402cc0     test.OBJ
+ 0001:00001cc0       @__vbaUI1I4                00402cc0     test.OBJ
+ 0001:00001cc6       @__vba@083D9CFC            00402cc6     test.OBJ
+ 0001:00001cc6       ___vba@083D9CFC            00402cc6     test.OBJ
+ 0001:00001ccc       ___vbaStrVarVal            00402ccc     test.OBJ
+ 0001:00001ccc       @__vbaStrVarVal            00402ccc     test.OBJ
+ 0001:00001cd2       ___vba@083D9D80            00402cd2     test.OBJ
+ 0001:00001cd2       @__vba@083D9D80            00402cd2     test.OBJ
+ 0001:00001cd8       ___vbaI2I4                 00402cd8     test.OBJ
+ 0001:00001cd8       @__vbaI2I4                 00402cd8     test.OBJ
+ 0001:00001cde       @__vbaRedim                00402cde     test.OBJ
+ 0001:00001cde       ___vbaRedim                00402cde     test.OBJ
+ 0001:00001ce4       @__vbaAryDestruct          00402ce4     test.OBJ
+ 0001:00001ce4       ___vbaAryDestruct          00402ce4     test.OBJ
+ 0001:00001cea       ___vbaErase                00402cea     test.OBJ
+ 0001:00001cea       @__vbaErase                00402cea     test.OBJ
+ 0001:00001cf0       @__vbaAryMove              00402cf0     test.OBJ
+ 0001:00001cf0       ___vbaAryMove              00402cf0     test.OBJ
+ 0001:00001cf6       @__vbaFileClose            00402cf6     test.OBJ
+ 0001:00001cf6       ___vbaFileClose            00402cf6     test.OBJ
+ 0001:00001cfc       @__vba@083D9FCC            00402cfc     test.OBJ
+ 0001:00001cfc       ___vba@083D9FCC            00402cfc     test.OBJ
+ 0001:00001d02       ___vba@0849D4F4            00402d02     test.OBJ
+ 0001:00001d02       @__vba@0849D4F4            00402d02     test.OBJ
+ 0001:00001d08       @__vbaGetOwner3            00402d08     test.OBJ
+ 0001:00001d08       ___vbaGetOwner3            00402d08     test.OBJ
+ 0001:00001d0e       @__vba@0849D578            00402d0e     test.OBJ
+ 0001:00001d0e       ___vba@0849D578            00402d0e     test.OBJ
+ 0001:00001d14       @__vbaFileOpen             00402d14     test.OBJ
+ 0001:00001d14       ___vbaFileOpen             00402d14     test.OBJ
+ 0001:00001d1a       @__vbaGenerateBoundsError  00402d1a     test.OBJ
+ 0001:00001d1a       ___vbaGenerateBoundsError  00402d1a     test.OBJ
+ 0001:00001d20       @__vbaStrI4                00402d20     test.OBJ
+ 0001:00001d20       ___vbaStrI4                00402d20     test.OBJ
+ 0001:00001d26       ___vbaFreeObjList          00402d26     test.OBJ
+ 0001:00001d26       @__vbaFreeObjList          00402d26     test.OBJ
+ 0001:00001d2c       ___vbaCastObjVar           00402d2c     test.OBJ
+ 0001:00001d2c       @__vbaCastObjVar           00402d2c     test.OBJ
+ 0001:00001d32       @__vbaObjIs                00402d32     test.OBJ
+ 0001:00001d32       ___vbaObjIs                00402d32     test.OBJ
+ 0001:00001d38       @__vbaLateMemCallLd        00402d38     test.OBJ
+ 0001:00001d38       ___vbaLateMemCallLd        00402d38     test.OBJ
+ 0001:00001d3e       @__vbaLateMemSt            00402d3e     test.OBJ
+ 0001:00001d3e       ___vbaLateMemSt            00402d3e     test.OBJ
+ 0001:00001d44       ___vbaVarTstNe             00402d44     test.OBJ
+ 0001:00001d44       @__vbaVarTstNe             00402d44     test.OBJ
+ 0001:00001d4a       ___vbaStrCmp               00402d4a     test.OBJ
+ 0001:00001d4a       @__vbaStrCmp               00402d4a     test.OBJ
+ 0001:00001d50       ___vbaRecDestructAnsi      00402d50     test.OBJ
+ 0001:00001d50       @__vbaRecDestructAnsi      00402d50     test.OBJ
+ 0001:00001d56       @__vbaCopyBytes            00402d56     test.OBJ
+ 0001:00001d56       ___vbaCopyBytes            00402d56     test.OBJ
+ 0001:00001d5c       @__vbaExitProc             00402d5c     test.OBJ
+ 0001:00001d5c       ___vbaExitProc             00402d5c     test.OBJ
+ 0001:00001d62       ___vbaBoolVar              00402d62     test.OBJ
+ 0001:00001d62       @__vbaBoolVar              00402d62     test.OBJ
+ 0001:00001d68       ___vba@084F4338            00402d68     test.OBJ
+ 0001:00001d68       @__vba@084F4338            00402d68     test.OBJ
+ 0001:00001d6e       ___vbaVarOr                00402d6e     test.OBJ
+ 0001:00001d6e       @__vbaVarOr                00402d6e     test.OBJ
+ 0001:00001d74       @__vba@084F43B8            00402d74     test.OBJ
+ 0001:00001d74       ___vba@084F43B8            00402d74     test.OBJ
+ 0001:00001d7a       ___vbaI2Var                00402d7a     test.OBJ
+ 0001:00001d7a       @__vbaI2Var                00402d7a     test.OBJ
+ 0001:00001d80       ___vbaFPInt                00402d80     test.OBJ
+ 0001:00001d80       @__vbaFPInt                00402d80     test.OBJ
+ 0001:00001d86       @__vbaFpI2                 00402d86     test.OBJ
+ 0001:00001d86       ___vbaFpI2                 00402d86     test.OBJ
+ 0001:00001d8c       @__vba@084F3A4C            00402d8c     test.OBJ
+ 0001:00001d8c       ___vba@084F3A4C            00402d8c     test.OBJ
+ 0001:00001d92       ___vbaVarMove              00402d92     test.OBJ
+ 0001:00001d92       @__vbaVarMove              00402d92     test.OBJ
+ 0001:00001d98       @__vbaRedimPreserve        00402d98     test.OBJ
+ 0001:00001d98       ___vbaRedimPreserve        00402d98     test.OBJ
+ 0001:00001d9e       ___vbaUbound               00402d9e     test.OBJ
+ 0001:00001d9e       @__vbaUbound               00402d9e     test.OBJ
+ 0001:00001da4       @__vba@084F3B68            00402da4     test.OBJ
+ 0001:00001da4       ___vba@084F3B68            00402da4     test.OBJ
+ 0001:00001daa       ___vba@084F3BA0            00402daa     test.OBJ
+ 0001:00001daa       @__vba@084F3BA0            00402daa     test.OBJ
+ 0001:00001db0       @__vbaFpUI1                00402db0     test.OBJ
+ 0001:00001db0       ___vbaFpUI1                00402db0     test.OBJ
+ 0001:00001db6       ___vbaAryUnlock            00402db6     test.OBJ
+ 0001:00001db6       @__vbaAryUnlock            00402db6     test.OBJ
+ 0001:00001dbc       ___vbaAryLock              00402dbc     test.OBJ
+ 0001:00001dbc       @__vbaAryLock              00402dbc     test.OBJ
+ 0001:00001dc2       @__vbaRaiseEvent           00402dc2     test.OBJ
+ 0001:00001dc2       ___vbaRaiseEvent           00402dc2     test.OBJ
+ 0001:00001dc8       ___vbaFpR8                 00402dc8     test.OBJ
+ 0001:00001dc8       @__vbaFpR8                 00402dc8     test.OBJ
+ 0001:00001dce       ___vba@084D9A2C            00402dce     test.OBJ
+ 0001:00001dce       @__vba@084D9A2C            00402dce     test.OBJ
+ 0001:00001dd4       ___vba@084DB1FC            00402dd4     test.OBJ
+ 0001:00001dd4       @__vba@084DB1FC            00402dd4     test.OBJ
+ 0001:00001dda       ___vbaCastObj              00402dda     test.OBJ
+ 0001:00001dda       @__vbaCastObj              00402dda     test.OBJ
+ 0001:00001de0       ___vba@084DA15C            00402de0     test.OBJ
+ 0001:00001de0       @__vba@084DA15C            00402de0     test.OBJ
+ 0001:00001de6       ___vbaNew                  00402de6     test.OBJ
+ 0001:00001de6       @__vbaNew                  00402de6     test.OBJ
+ 0001:00001dec       @__vba@084DA1DC            00402dec     test.OBJ
+ 0001:00001dec       ___vba@084DA1DC            00402dec     test.OBJ
+ 0001:00001df2       @__vbaVarVargNofree        00402df2     test.OBJ
+ 0001:00001df2       ___vbaVarVargNofree        00402df2     test.OBJ
+ 0001:00001df8       ___vbaVarMul               00402df8     test.OBJ
+ 0001:00001df8       @__vbaVarMul               00402df8     test.OBJ
+ 0001:00001dfe       @__vbaVarDiv               00402dfe     test.OBJ
+ 0001:00001dfe       ___vbaVarDiv               00402dfe     test.OBJ
+ 0001:00001e04       ___vbaLenVarB              00402e04     test.OBJ
+ 0001:00001e04       @__vbaLenVarB              00402e04     test.OBJ
+ 0001:00001e0a       ___vba@084D9D0C            00402e0a     test.OBJ
+ 0001:00001e0a       @__vba@084D9D0C            00402e0a     test.OBJ
+ 0001:00001e10       @__vbaI4Abs                00402e10     test.OBJ
+ 0001:00001e10       ___vbaI4Abs                00402e10     test.OBJ
+ 0001:00001e16       ___vbaLenBstrB             00402e16     test.OBJ
+ 0001:00001e16       @__vbaLenBstrB             00402e16     test.OBJ
+ 0001:00001e1c       @__vbaStrI2                00402e1c     test.OBJ
+ 0001:00001e1c       ___vbaStrI2                00402e1c     test.OBJ
+ 0001:00001e22       @__vba@084DBA1C            00402e22     test.OBJ
+ 0001:00001e22       ___vba@084DBA1C            00402e22     test.OBJ
+ 0001:00001e28       @__vbaVarTstEq             00402e28     test.OBJ
+ 0001:00001e28       ___vbaVarTstEq             00402e28     test.OBJ
+ 0001:00001e2e       @__vbaStrUI1               00402e2e     test.OBJ
+ 0001:00001e2e       ___vbaStrUI1               00402e2e     test.OBJ
+ 0001:00001e34       ___vba@084DA83C            00402e34     test.OBJ
+ 0001:00001e34       @__vba@084DA83C            00402e34     test.OBJ
+ 0001:00001e3a       ___vbaObjVar               00402e3a     test.OBJ
+ 0001:00001e3a       @__vbaObjVar               00402e3a     test.OBJ
+ 0001:00001e40       ___vbaLateMemCall          00402e40     test.OBJ
+ 0001:00001e40       @__vbaLateMemCall          00402e40     test.OBJ
+ 0001:00001e46       @__vba@084DAE4C            00402e46     test.OBJ
+ 0001:00001e46       ___vba@084DAE4C            00402e46     test.OBJ
+ 0001:00001e4c       @__vbaVarSetVar            00402e4c     test.OBJ
+ 0001:00001e4c       ___vbaVarSetVar            00402e4c     test.OBJ
+ 0001:00001e52       ___vbaI2Str                00402e52     test.OBJ
+ 0001:00001e52       @__vbaI2Str                00402e52     test.OBJ
+ 0001:00001e58       @__vbaI4Str                00402e58     test.OBJ
+ 0001:00001e58       ___vbaI4Str                00402e58     test.OBJ
+ 0001:00001e5e       @__vbaStrR8                00402e5e     test.OBJ
+ 0001:00001e5e       ___vbaStrR8                00402e5e     test.OBJ
+ 0001:00001e64       ___vbaNextEachVar          00402e64     test.OBJ
+ 0001:00001e64       @__vbaNextEachVar          00402e64     test.OBJ
+ 0001:00001e6a       ___vbaVarLateMemCallLdRf   00402e6a     test.OBJ
+ 0001:00001e6a       @__vbaVarLateMemCallLdRf   00402e6a     test.OBJ
+ 0001:00001e70       @__vba@084DC430            00402e70     test.OBJ
+ 0001:00001e70       ___vba@084DC430            00402e70     test.OBJ
+ 0001:00001e76       ___vbaVarLateMemCallLd     00402e76     test.OBJ
+ 0001:00001e76       @__vbaVarLateMemCallLd     00402e76     test.OBJ
+ 0001:00001e7c       ___vbaVarZero              00402e7c     test.OBJ
+ 0001:00001e7c       @__vbaVarZero              00402e7c     test.OBJ
+ 0001:00001e82       ___vbaForEachVar           00402e82     test.OBJ
+ 0001:00001e82       @__vbaForEachVar           00402e82     test.OBJ
+ 0001:00001e88       @__vbaStrFixstr            00402e88     test.OBJ
+ 0001:00001e88       ___vbaStrFixstr            00402e88     test.OBJ
+ 0001:00001e8e       ___vbaInStr                00402e8e     test.OBJ
+ 0001:00001e8e       @__vbaInStr                00402e8e     test.OBJ
+ 0001:00001e94       @__vbaEnd                  00402e94     test.OBJ
+ 0001:00001e94       ___vbaEnd                  00402e94     test.OBJ
+ 0001:00001e9a       @__vba@084DCCB0            00402e9a     test.OBJ
+ 0001:00001e9a       ___vba@084DCCB0            00402e9a     test.OBJ
+ 0001:00001eb8       ___vbaS                    00402eb8     test.OBJ
+ 0001:0000bca0       ___vba@04338F1C            0040cca0     test.OBJ
+ 0001:0000bcdc       ___vba@083A39E4            0040ccdc     test.OBJ
+ 0001:0000bd1c       ___vba@0433684C            0040cd1c     test.OBJ
+ 0001:0000bd6c       ___vba@04337DDC            0040cd6c     test.OBJ
+ 0001:0000c090       ___vba@083A2CF4            0040d090     test.OBJ
+ 0001:0000c2e0       ___vba@04338004            0040d2e0     test.OBJ
+ 0001:0000c574       ___vba@083A4D4C            0040d574     test.OBJ
+ 0001:0000c808       ___vba@083A37BC            0040d808     test.OBJ
+ 0001:0000ca9c       ___vba@0433867C            0040da9c     test.OBJ
+ 0001:0000cdb0       ___vba@083A4284            0040ddb0     test.OBJ
+ 0001:0000d0c4       ___vba@083A3C0C            0040e0c4     test.OBJ
+ 0001:0000d794       ___vba@083A3144            0040e794     test.OBJ
+ 0001:0000df40       ___vba@083A53C4            0040ef40     test.OBJ
+ 0001:0000e82c       ___vba@043361D4            0040f82c     test.OBJ
+ 0001:0000ee6c       ___vba@04337314            0040fe6c     test.OBJ
+ 0001:0000f4b8       ___vba@083A336C            004104b8     test.OBJ
+ 0001:0000fb9c       ___vba@083A4F74            00410b9c     test.OBJ
+ 0001:000103c4       ___vba@04335934            004113c4     test.OBJ
+ 0001:00010d0c       ___vba@083A5C64            00411d0c     test.OBJ
+ 0001:000117a4       ___vba@083A48FC            004127a4     test.OBJ
+ 0001:00012334       ___vba@043363FC            00413334     test.OBJ
+ 0001:00012e48       ___vba@04336454            00413e48     test.OBJ
+ 0001:00012e54       ___vba@04336464            00413e54     test.OBJ
+ 0001:00012e60       ___vba@04336474            00413e60     test.OBJ
+ 0001:00012e6c       ___vba@04336484            00413e6c     test.OBJ
+ 0001:00012e70       ___vba@0433648C            00413e70     test.OBJ
+ 0001:00012e74       ___vba@04336494            00413e74     test.OBJ
+ 0001:00012e80       ___vba@043364A4            00413e80     test.OBJ
+ 0001:00012e8c       ___vba@043364B4            00413e8c     test.OBJ
+ 0001:00012e98       ___vba@043364C4            00413e98     test.OBJ
+ 0001:00012ea4       ___vba@043364D4            00413ea4     test.OBJ
+ 0001:00012eb0       ___vba@043364E4            00413eb0     test.OBJ
+ 0001:00012ec0       ___vba@043364F8            00413ec0     test.OBJ
+ 0001:00012ed0       ___vba@0433650C            00413ed0     test.OBJ
+ 0001:00012ed8       ___vba@04336518            00413ed8     test.OBJ
+ 0001:00012ee4       ___vba@04336528            00413ee4     test.OBJ
+ 0001:00012ef4       ___vba@0433653C            00413ef4     test.OBJ
+ 0001:00012f04       ___vba@04336550            00413f04     test.OBJ
+ 0001:00012f0c       ___vba@0433655C            00413f0c     test.OBJ
+ 0001:00012f14       ___vba@04336568            00413f14     test.OBJ
+ 0001:00012f20       ___vba@04336578            00413f20     test.OBJ
+ 0001:00012f24       ___vba@04336580            00413f24     test.OBJ
+ 0001:00012f34       ___vba@04336590            00413f34     test.OBJ
+ 0001:00012f40       ___vba@043365A0            00413f40     test.OBJ
+ 0001:00012f64       ___vba@043365CC            00413f64     test.OBJ
+ 0001:00012f74       ___vba@043365E0            00413f74     test.OBJ
+ 0001:00012f84       ___vba@043365F4            00413f84     test.OBJ
+ 0001:00012f88       ___vba@0433753C            00413f88     test.OBJ
+ 0001:00012f98       ___vba@04337550            00413f98     test.OBJ
+ 0001:00012fa8       ___vba@04337564            00413fa8     test.OBJ
+ 0001:00012fb8       ___vba@04337578            00413fb8     test.OBJ
+ 0001:00012fc0       ___vba@04337584            00413fc0     test.OBJ
+ 0001:00012fd0       ___vba@04337598            00413fd0     test.OBJ
+ 0001:0001300c       ___vba@043375D8            0041400c     test.OBJ
+ 0001:00013034       ___vba@04337604            00414034     test.OBJ
+ 0001:00013044       ___vba@04337618            00414044     test.OBJ
+ 0001:00013050       ___vba@04337628            00414050     test.OBJ
+ 0001:00013058       ___vba@04337634            00414058     test.OBJ
+ 0001:00013060       ___vba@04337640            00414060     test.OBJ
+ 0001:00013068       ___vba@0433764C            00414068     test.OBJ
+ 0001:00013078       ___vba@04337660            00414078     test.OBJ
+ 0001:00013084       ___vba@0433766C            00414084     test.OBJ
+ 0001:00013090       ___vba@0433767C            00414090     test.OBJ
+ 0001:000130b8       ___vba@04337694            004140b8     test.OBJ
+ 0001:000130d8       ___vba@043376CC            004140d8     test.OBJ
+ 0001:00013100       ___vba@043376E4            00414100     test.OBJ
+ 0001:0001311c       ___vba@0433771C            0041411c     test.OBJ
+ 0001:00013130       ___vba@083DA044            00414130     test.OBJ
+ 0001:00013164       ___vba@083DA068            00414164     test.OBJ
+ 0001:00013180       ___vba@083DA0A0            00414180     test.OBJ
+ 0001:00013190       ___vba@083DA0B0            00414190     test.OBJ
+ 0001:0001319c       ___vba@083DA0C0            0041419c     test.OBJ
+ 0001:000131a8       ___vba@083DA0D0            004141a8     test.OBJ
+ 0001:000131bc       ___vba@083DA0E8            004141bc     test.OBJ
+ 0001:000131dc       ___vba@083DA10C            004141dc     test.OBJ
+ 0001:000131ec       ___vba@083DA120            004141ec     test.OBJ
+ 0001:00013220       ___vba@083DA144            00414220     test.OBJ
+ 0001:00013240       ___vba@083DA17C            00414240     test.OBJ
+ 0001:00013274       ___vba@083DA1A0            00414274     test.OBJ
+ 0001:00013290       ___vba@083DA1D8            00414290     test.OBJ
+ 0001:0001329c       ___vba@083DA1E8            0041429c     test.OBJ
+ 0001:000132ac       ___vba@083DA1FC            004142ac     test.OBJ
+ 0001:000132bc       ___vba@083DA210            004142bc     test.OBJ
+ 0001:000132cc       ___vba@083DA224            004142cc     test.OBJ
+ 0001:000132dc       ___vba@083DAD34            004142dc     test.OBJ
+ 0001:000132ec       ___vba@083DAD48            004142ec     test.OBJ
+ 0001:000132fc       ___vba@083DAD5C            004142fc     test.OBJ
+ 0001:0001330c       ___vba@083DAD70            0041430c     test.OBJ
+ 0001:00013310       ___vba@083DAD78            00414310     test.OBJ
+ 0001:00013320       ___vba@083DAD8C            00414320     test.OBJ
+ 0001:00013328       ___vba@083DAD98            00414328     test.OBJ
+ 0001:00013330       ___vba@083DADA4            00414330     test.OBJ
+ 0001:00013338       ___vba@083DADB0            00414338     test.OBJ
+ 0001:00013340       ___vba@083DADBC            00414340     test.OBJ
+ 0001:00013390       ___vba@083DAE0C            00414390     test.OBJ
+ 0001:0001339c       ___vba@083DAE1C            0041439c     test.OBJ
+ 0001:000133c8       ___vba@083DAE38            004143c8     test.OBJ
+ 0001:000133e4       ___vba@083DAE70            004143e4     test.OBJ
+ 0001:0001340c       ___vba@083DAE9C            0041440c     test.OBJ
+ 0001:0001341c       ___vba@083DAEB0            0041441c     test.OBJ
+ 0001:0001342c       ___vba@083DAEC4            0041442c     test.OBJ
+ 0001:0001343c       ___vba@083DAED8            0041443c     test.OBJ
+ 0001:0001344c       ___vba@083DAEEC            0041444c     test.OBJ
+ 0001:00013458       ___vba@083DAEFC            00414458     test.OBJ
+ 0001:00013464       ___vba@083DAF0C            00414464     test.OBJ
+ 0001:00013478       ___vba@083DAF24            00414478     test.OBJ
+ 0001:00013484       ___vba@083D8474            00414484     test.OBJ
+ 0001:00013498       ___vba@083D84C8            00414498     test.OBJ
+ 0001:000134ac       ___vba@083D8518            004144ac     test.OBJ
+ 0001:000134b8       ___vba@083D8560            004144b8     test.OBJ
+ 0001:000134cc       ___vba@083D85B0            004144cc     test.OBJ
+ 0001:000134dc       ___vba@083D85FC            004144dc     test.OBJ
+ 0001:000134f8       ___vba@083D8618            004144f8     test.OBJ
+ 0001:00013508       ___vba@083DB1BC            00414508     test.OBJ
+ 0001:00013514       ___vba@083DB204            00414514     test.OBJ
+ 0001:00013524       ___vba@083DB250            00414524     test.OBJ
+ 0001:00013538       ___vba@083DB2A0            00414538     test.OBJ
+ 0001:00013548       ___vba@083DB2EC            00414548     test.OBJ
+ 0001:00013554       ___vba@083DB36C            00414554     test.OBJ
+ 0001:00013560       ___vba@083D9164            00414560     test.OBJ
+ 0001:00013570       ___vba@083D91B0            00414570     test.OBJ
+ 0001:00013580       ___vba@083D91FC            00414580     test.OBJ
+ 0001:00013594       ___vba@083D9248            00414594     test.OBJ
+ 0001:000135a0       ___vba@083D9258            004145a0     test.OBJ
+ 0001:000135d8       ___vba@083D9294            004145d8     test.OBJ
+ 0001:000135f0       ___vba@083D92B0            004145f0     test.OBJ
+ 0001:00013650       ___vba@083D9314            00414650     test.OBJ
+ 0001:0001365c       ___vba@083D7FEC            0041465c     test.OBJ
+ 0001:0001366c       ___vba@083D8000            0041466c     test.OBJ
+ 0001:00013684       ___vba@083D801C            00414684     test.OBJ
+ 0001:000136cc       ___vba@083D8068            004146cc     test.OBJ
+ 0001:000136d0       ___vba@083D8074            004146d0     test.OBJ
+ 0001:000136e0       ___vba@083D8088            004146e0     test.OBJ
+ 0001:000136f0       ___vba@083D809C            004146f0     test.OBJ
+ 0001:00013700       ___vba@083D80B0            00414700     test.OBJ
+ 0001:00013710       ___vba@083D80C4            00414710     test.OBJ
+ 0001:00013720       ___vba@083D80D8            00414720     test.OBJ
+ 0001:0001372c       ___vba@083D80E8            0041472c     test.OBJ
+ 0001:00013738       ___vba@083D80F8            00414738     test.OBJ
+ 0001:00013748       ___vba@083D810C            00414748     test.OBJ
+ 0001:00013750       ___vba@083D8118            00414750     test.OBJ
+ 0001:00013760       ___vba@083D812C            00414760     test.OBJ
+ 0001:00013768       ___vba@083D8138            00414768     test.OBJ
+ 0001:00013778       ___vba@083D814C            00414778     test.OBJ
+ 0001:00013780       ___vba@083D8158            00414780     test.OBJ
+ 0001:00013788       ___vba@083D8164            00414788     test.OBJ
+ 0001:00013790       ___vba@083D8170            00414790     test.OBJ
+ 0001:000137a0       ___vba@083D8184            004147a0     test.OBJ
+ 0001:000137a8       ___vba@083D8190            004147a8     test.OBJ
+ 0001:000137b0       ___vba@083D819C            004147b0     test.OBJ
+ 0001:000137b8       ___vba@083D81A8            004147b8     test.OBJ
+ 0001:000137c0       ___vba@083D81B4            004147c0     test.OBJ
+ 0001:000137ec       ___vba@083D8664            004147ec     test.OBJ
+ 0001:00013800       ___vba@083D8678            00414800     test.OBJ
+ 0001:00013828       ___vba@083D86A4            00414828     test.OBJ
+ 0001:00013840       ___vba@083D86C0            00414840     test.OBJ
+ 0001:00013860       ___vba@083D86E8            00414860     test.OBJ
+ 0001:00013870       ___vba@083D86FC            00414870     test.OBJ
+ 0001:00013880       ___vba@083D8710            00414880     test.OBJ
+ 0001:00013890       ___vba@083D8724            00414890     test.OBJ
+ 0001:000138a0       ___vba@083D8738            004148a0     test.OBJ
+ 0001:000138b0       ___vba@083D874C            004148b0     test.OBJ
+ 0001:000138c0       ___vba@083D8760            004148c0     test.OBJ
+ 0001:000138d0       ___vba@083D8774            004148d0     test.OBJ
+ 0001:000138e0       ___vba@083D8788            004148e0     test.OBJ
+ 0001:000138f0       ___vba@083D879C            004148f0     test.OBJ
+ 0001:00013900       ___vba@083D87B0            00414900     test.OBJ
+ 0001:00013910       ___vba@083D87C4            00414910     test.OBJ
+ 0001:00013920       ___vba@083D87D8            00414920     test.OBJ
+ 0001:00013934       ___vba@083D87EC            00414934     test.OBJ
+ 0001:00013944       ___vba@083D8800            00414944     test.OBJ
+ 0001:0001396c       ___vba@083D8818            0041496c     test.OBJ
+ 0001:00013988       ___vba@083D8850            00414988     test.OBJ
+ 0001:00013998       ___vba@083DB3AC            00414998     test.OBJ
+ 0001:000139a8       ___vba@083DB3C0            004149a8     test.OBJ
+ 0001:000139b4       ___vba@083DB408            004149b4     test.OBJ
+ 0001:000139c8       ___vba@083DB458            004149c8     test.OBJ
+ 0001:000139dc       ___vba@083DB4A8            004149dc     test.OBJ
+ 0001:000139ec       ___vba@083DB52C            004149ec     test.OBJ
+ 0001:000139f8       ___vba@083DB574            004149f8     test.OBJ
+ 0001:00013a08       ___vba@083DB588            00414a08     test.OBJ
+ 0001:00013a18       ___vba@083DB59C            00414a18     test.OBJ
+ 0001:00013a24       ___vba@083D95B4            00414a24     test.OBJ
+ 0001:00013a34       ___vba@083D9600            00414a34     test.OBJ
+ 0001:00013a48       ___vba@083D9650            00414a48     test.OBJ
+ 0001:00013a54       ___vba@083D96D0            00414a54     test.OBJ
+ 0001:00013a68       ___vba@083D9758            00414a68     test.OBJ
+ 0001:00013a74       ___vba@083D9768            00414a74     test.OBJ
+ 0001:00013a80       ___vba@083DB834            00414a80     test.OBJ
+ 0001:00013a84       ___vba@083DB878            00414a84     test.OBJ
+ 0001:00013a94       ___vba@083DB8FC            00414a94     test.OBJ
+ 0001:00013aa8       ___vba@083DB94C            00414aa8     test.OBJ
+ 0001:00013ab8       ___vba@083DB998            00414ab8     test.OBJ
+ 0001:00013ac8       ___vba@083DB9AC            00414ac8     test.OBJ
+ 0001:00013ad8       ___vba@083DB9C0            00414ad8     test.OBJ
+ 0001:00013ae8       ___vba@083DB9D4            00414ae8     test.OBJ
+ 0001:00013af8       ___vba@083DB9E8            00414af8     test.OBJ
+ 0001:00013b08       ___vba@083D97A4            00414b08     test.OBJ
+ 0001:00013b2c       ___vba@083D97CC            00414b2c     test.OBJ
+ 0001:00013b34       ___vba@083D97D8            00414b34     test.OBJ
+ 0001:00013b5c       ___vba@083D9804            00414b5c     test.OBJ
+ 0001:00013b68       ___vba@083D9814            00414b68     test.OBJ
+ 0001:00013b74       ___vba@083D9824            00414b74     test.OBJ
+ 0001:00013b80       ___vba@083D9834            00414b80     test.OBJ
+ 0001:00013b8c       ___vba@083D9844            00414b8c     test.OBJ
+ 0001:00013ba0       ___vba@083D985C            00414ba0     test.OBJ
+ 0001:00013bb4       ___vba@083D9874            00414bb4     test.OBJ
+ 0001:00013bc0       ___vba@083D9884            00414bc0     test.OBJ
+ 0001:00013bc8       ___vba@083D9890            00414bc8     test.OBJ
+ 0001:00013bd4       ___vba@083D98A0            00414bd4     test.OBJ
+ 0001:00013be0       ___vba@083D98B0            00414be0     test.OBJ
+ 0001:00013bf0       ___vba@083D98C4            00414bf0     test.OBJ
+ 0001:00013c58       ___vba@083D992C            00414c58     test.OBJ
+ 0001:00013c74       ___vba@083D994C            00414c74     test.OBJ
+ 0001:00013c7c       ___vba@083D9958            00414c7c     test.OBJ
+ 0001:00013c98       ___vba@083D9978            00414c98     test.OBJ
+ 0001:00013cb0       ___vba@083D9C2C            00414cb0     test.OBJ
+ 0001:00013cc4       ___vba@083D9CB4            00414cc4     test.OBJ
+ 0001:00013cd0       ___vba@083D9D34            00414cd0     test.OBJ
+ 0001:00013ce0       ___vba@083D9DB8            00414ce0     test.OBJ
+ 0001:00013cec       ___vba@083D9DC8            00414cec     test.OBJ
+ 0001:00013cf4       ___vba@083D9DD4            00414cf4     test.OBJ
+ 0001:00013d04       ___vba@083D9E54            00414d04     test.OBJ
+ 0001:00013d10       ___vba@083D9E9C            00414d10     test.OBJ
+ 0001:00013d24       ___vba@083D9EEC            00414d24     test.OBJ
+ 0001:00013d30       ___vba@083D9F34            00414d30     test.OBJ
+ 0001:00013d40       ___vba@083D9F80            00414d40     test.OBJ
+ 0001:00013d50       ___vba@083DA004            00414d50     test.OBJ
+ 0001:00013d64       ___vba@0849D52C            00414d64     test.OBJ
+ 0001:00013d74       ___vba@0849D5B0            00414d74     test.OBJ
+ 0001:00013d84       ___vba@0849D5FC            00414d84     test.OBJ
+ 0001:00013da0       ___vba@0849D654            00414da0     test.OBJ
+ 0001:00013dac       ___vba@0849D69C            00414dac     test.OBJ
+ 0001:00013dbc       ___vba@0849D6B0            00414dbc     test.OBJ
+ 0001:00013dcc       ___vba@0849D6C4            00414dcc     test.OBJ
+ 0001:00013ddc       ___vba@0849D6D8            00414ddc     test.OBJ
+ 0001:00013dec       ___vba@0849D71C            00414dec     test.OBJ
+ 0001:00013df8       ___vba@0849D72C            00414df8     test.OBJ
+ 0001:00013e04       ___vba@0849D73C            00414e04     test.OBJ
+ 0001:00013e10       ___vba@0849D74C            00414e10     test.OBJ
+ 0001:00013e30       ___vba@0849D770            00414e30     test.OBJ
+ 0001:00013e40       ___vba@0849D784            00414e40     test.OBJ
+ 0001:00013e80       ___vba@0849D7C8            00414e80     test.OBJ
+ 0001:00013e8c       ___vba@0849D7D8            00414e8c     test.OBJ
+ 0001:00013e98       ___vba@0849D7E8            00414e98     test.OBJ
+ 0001:00013ea4       ___vba@0849D7F8            00414ea4     test.OBJ
+ 0001:00013eb0       ___vba@0849D808            00414eb0     test.OBJ
+ 0001:00013ebc       ___vba@0849D818            00414ebc     test.OBJ
+ 0001:00013ec8       ___vba@0849D828            00414ec8     test.OBJ
+ 0001:00013ee0       ___vba@0849D840            00414ee0     test.OBJ
+ 0001:00013f08       ___vba@0849D858            00414f08     test.OBJ
+ 0001:00013f28       ___vba@0849D890            00414f28     test.OBJ
+ 0001:00013f38       ___vba@0849D8A4            00414f38     test.OBJ
+ 0001:00013f60       ___vba@0849D8BC            00414f60     test.OBJ
+ 0001:00013f80       ___vba@0849D8F4            00414f80     test.OBJ
+ 0001:00013fac       ___vba@0849E634            00414fac     test.OBJ
+ 0001:00013fcc       ___vba@0849E66C            00414fcc     test.OBJ
+ 0001:00013ff4       ___vba@0849E684            00414ff4     test.OBJ
+ 0001:00014014       ___vba@0849E6BC            00415014     test.OBJ
+ 0001:00014038       ___vba@0849E6D0            00415038     test.OBJ
+ 0001:00014058       ___vba@0849E708            00415058     test.OBJ
+ 0001:0001407c       ___vba@0849E71C            0041507c     test.OBJ
+ 0001:0001409c       ___vba@0849E754            0041509c     test.OBJ
+ 0001:000140c0       ___vba@0849E768            004150c0     test.OBJ
+ 0001:000140e0       ___vba@0849E7A0            004150e0     test.OBJ
+ 0001:00014108       ___vba@0849E7B8            00415108     test.OBJ
+ 0001:00014128       ___vba@0849E7F0            00415128     test.OBJ
+ 0001:0001413c       ___vba@0849E808            0041513c     test.OBJ
+ 0001:00014178       ___vba@0849E40C            00415178     test.OBJ
+ 0001:00014198       ___vba@0849E444            00415198     test.OBJ
+ 0001:000141a8       ___vba@0849E458            004151a8     test.OBJ
+ 0001:000141d4       ___vba@0849E474            004151d4     test.OBJ
+ 0001:000141f4       ___vba@0849E4AC            004151f4     test.OBJ
+ 0001:00014218       ___vba@0849E4C0            00415218     test.OBJ
+ 0001:00014238       ___vba@0849E4F8            00415238     test.OBJ
+ 0001:00014260       ___vba@0849E510            00415260     test.OBJ
+ 0001:00014280       ___vba@0849E548            00415280     test.OBJ
+ 0001:000142a4       ___vba@0849E55C            004152a4     test.OBJ
+ 0001:000142c4       ___vba@0849E594            004152c4     test.OBJ
+ 0001:000142e8       ___vba@0849E5A8            004152e8     test.OBJ
+ 0001:00014308       ___vba@0849E5E0            00415308     test.OBJ
+ 0001:00014314       ___vba@0849E5F0            00415314     test.OBJ
+ 0001:00014334       ___vba@0849E85C            00415334     test.OBJ
+ 0001:00014354       ___vba@0849E894            00415354     test.OBJ
+ 0001:00014378       ___vba@0849E8A8            00415378     test.OBJ
+ 0001:00014398       ___vba@0849E8E0            00415398     test.OBJ
+ 0001:000143b8       ___vba@0849E8F0            004153b8     test.OBJ
+ 0001:000143d8       ___vba@0849E928            004153d8     test.OBJ
+ 0001:000143fc       ___vba@0849E93C            004153fc     test.OBJ
+ 0001:0001441c       ___vba@0849E974            0041541c     test.OBJ
+ 0001:00014444       ___vba@0849E98C            00415444     test.OBJ
+ 0001:00014464       ___vba@0849E9C4            00415464     test.OBJ
+ 0001:00014470       ___vba@0849E9D4            00415470     test.OBJ
+ 0001:00014494       ___vba@0849E9E8            00415494     test.OBJ
+ 0001:000144b4       ___vba@0849EA20            004154b4     test.OBJ
+ 0001:000144c8       ___vba@0849EA38            004154c8     test.OBJ
+ 0001:000144fc       ___vba@0849EA84            004154fc     test.OBJ
+ 0001:0001451c       ___vba@0849EABC            0041551c     test.OBJ
+ 0001:00014540       ___vba@0849EAD0            00415540     test.OBJ
+ 0001:00014560       ___vba@0849EB08            00415560     test.OBJ
+ 0001:00014570       ___vba@0849EB1C            00415570     test.OBJ
+ 0001:00014598       ___vba@0849EB34            00415598     test.OBJ
+ 0001:000145b8       ___vba@0849EB6C            004155b8     test.OBJ
+ 0001:000145e0       ___vba@0849EB84            004155e0     test.OBJ
+ 0001:00014600       ___vba@0849EBBC            00415600     test.OBJ
+ 0001:0001462c       ___vba@0849EBD8            0041562c     test.OBJ
+ 0001:0001464c       ___vba@0849EC10            0041564c     test.OBJ
+ 0001:00014680       ___vba@0849EC34            00415680     test.OBJ
+ 0001:0001469c       ___vba@0849EC6C            0041569c     test.OBJ
+ 0001:000146c0       ___vba@0849D2CC            004156c0     test.OBJ
+ 0001:000146e0       ___vba@0849D304            004156e0     test.OBJ
+ 0001:00014708       ___vba@0849D31C            00415708     test.OBJ
+ 0001:00014728       ___vba@0849D354            00415728     test.OBJ
+ 0001:00014750       ___vba@0849D36C            00415750     test.OBJ
+ 0001:00014770       ___vba@0849D3A4            00415770     test.OBJ
+ 0001:0001479c       ___vba@0849D3C0            0041579c     test.OBJ
+ 0001:000147bc       ___vba@0849D3F8            004157bc     test.OBJ
+ 0001:000147e8       ___vba@0849D414            004157e8     test.OBJ
+ 0001:00014808       ___vba@0849D44C            00415808     test.OBJ
+ 0001:00014834       ___vba@0849D468            00415834     test.OBJ
+ 0001:00014854       ___vba@0849D4A0            00415854     test.OBJ
+ 0001:00014864       ___vba@0849D4B8            00415864     test.OBJ
+ 0001:0001488c       ___vba@0849ECAC            0041588c     test.OBJ
+ 0001:000148ac       ___vba@0849ECE4            004158ac     test.OBJ
+ 0001:000148d8       ___vba@0849ED00            004158d8     test.OBJ
+ 0001:000148f8       ___vba@0849ED38            004158f8     test.OBJ
+ 0001:00014920       ___vba@0849ED50            00415920     test.OBJ
+ 0001:00014940       ___vba@0849ED88            00415940     test.OBJ
+ 0001:0001496c       ___vba@0849EDA4            0041596c     test.OBJ
+ 0001:0001498c       ___vba@0849EDDC            0041598c     test.OBJ
+ 0001:000149bc       ___vba@0849EDFC            004159bc     test.OBJ
+ 0001:000149dc       ___vba@0849EE34            004159dc     test.OBJ
+ 0001:00014a04       ___vba@0849EE4C            00415a04     test.OBJ
+ 0001:00014a24       ___vba@0849EE84            00415a24     test.OBJ
+ 0001:00014a34       ___vba@0849EE9C            00415a34     test.OBJ
+ 0001:00014a58       ___vba@0849B8EC            00415a58     test.OBJ
+ 0001:00014a78       ___vba@0849B924            00415a78     test.OBJ
+ 0001:00014a9c       ___vba@0849B938            00415a9c     test.OBJ
+ 0001:00014abc       ___vba@0849B970            00415abc     test.OBJ
+ 0001:00014ae4       ___vba@0849B988            00415ae4     test.OBJ
+ 0001:00014b04       ___vba@0849B9C0            00415b04     test.OBJ
+ 0001:00014b14       ___vba@0849B9D4            00415b14     test.OBJ
+ 0001:00014b38       ___vba@0849B9E8            00415b38     test.OBJ
+ 0001:00014b58       ___vba@0849BA20            00415b58     test.OBJ
+ 0001:00014b7c       ___vba@0849BA34            00415b7c     test.OBJ
+ 0001:00014b9c       ___vba@0849BA6C            00415b9c     test.OBJ
+ 0001:00014bc4       ___vba@0849BA84            00415bc4     test.OBJ
+ 0001:00014be4       ___vba@0849BABC            00415be4     test.OBJ
+ 0001:00014bf4       ___vba@0849BAD4            00415bf4     test.OBJ
+ 0001:00014c20       ___vba@0849EED4            00415c20     test.OBJ
+ 0001:00014c40       ___vba@0849EF0C            00415c40     test.OBJ
+ 0001:00014c68       ___vba@0849EF24            00415c68     test.OBJ
+ 0001:00014c88       ___vba@0849EF5C            00415c88     test.OBJ
+ 0001:00014cb0       ___vba@0849EF74            00415cb0     test.OBJ
+ 0001:00014cd0       ___vba@0849EFAC            00415cd0     test.OBJ
+ 0001:00014cf8       ___vba@0849EFC4            00415cf8     test.OBJ
+ 0001:00014d18       ___vba@0849EFFC            00415d18     test.OBJ
+ 0001:00014d40       ___vba@0849F014            00415d40     test.OBJ
+ 0001:00014d60       ___vba@0849F04C            00415d60     test.OBJ
+ 0001:00014d80       ___vba@0849F05C            00415d80     test.OBJ
+ 0001:00014da0       ___vba@0849F094            00415da0     test.OBJ
+ 0001:00014dac       ___vba@0849F0A8            00415dac     test.OBJ
+ 0001:00014dc0       ___vba@0849F0C0            00415dc0     test.OBJ
+ 0001:00014de0       ___vba@0849BD3C            00415de0     test.OBJ
+ 0001:00014e00       ___vba@0849BD74            00415e00     test.OBJ
+ 0001:00014e14       ___vba@0849BD8C            00415e14     test.OBJ
+ 0001:00014e40       ___vba@0849BDA8            00415e40     test.OBJ
+ 0001:00014e60       ___vba@0849BDE0            00415e60     test.OBJ
+ 0001:00014e88       ___vba@0849BDF8            00415e88     test.OBJ
+ 0001:00014ea8       ___vba@0849BE30            00415ea8     test.OBJ
+ 0001:00014ecc       ___vba@0849BE44            00415ecc     test.OBJ
+ 0001:00014eec       ___vba@0849BE7C            00415eec     test.OBJ
+ 0001:00014f10       ___vba@0849BE90            00415f10     test.OBJ
+ 0001:00014f30       ___vba@0849BEC8            00415f30     test.OBJ
+ 0001:00014f50       ___vba@0849BED8            00415f50     test.OBJ
+ 0001:00014f70       ___vba@0849BF10            00415f70     test.OBJ
+ 0001:00014f80       ___vba@0849BF28            00415f80     test.OBJ
+ 0001:00014fa8       ___vba@0849CA2C            00415fa8     test.OBJ
+ 0001:00014fc8       ___vba@0849CA64            00415fc8     test.OBJ
+ 0001:00014fec       ___vba@0849CA78            00415fec     test.OBJ
+ 0001:0001500c       ___vba@0849CAB0            0041600c     test.OBJ
+ 0001:00015038       ___vba@0849CACC            00416038     test.OBJ
+ 0001:00015058       ___vba@0849CB04            00416058     test.OBJ
+ 0001:00015084       ___vba@0849CB20            00416084     test.OBJ
+ 0001:000150a4       ___vba@0849CB58            004160a4     test.OBJ
+ 0001:000150d4       ___vba@0849CB78            004160d4     test.OBJ
+ 0001:000150f4       ___vba@0849CBB0            004160f4     test.OBJ
+ 0001:00015124       ___vba@0849CBD0            00416124     test.OBJ
+ 0001:00015144       ___vba@0849CC08            00416144     test.OBJ
+ 0001:00015150       ___vba@0849CC1C            00416150     test.OBJ
+ 0001:00015174       ___vba@0849CC54            00416174     test.OBJ
+ 0001:00015194       ___vba@0849CC8C            00416194     test.OBJ
+ 0001:000151b8       ___vba@0849CCA0            004161b8     test.OBJ
+ 0001:000151d8       ___vba@0849CCD8            004161d8     test.OBJ
+ 0001:00015200       ___vba@0849CCF0            00416200     test.OBJ
+ 0001:00015220       ___vba@0849CD28            00416220     test.OBJ
+ 0001:00015248       ___vba@0849CD40            00416248     test.OBJ
+ 0001:00015268       ___vba@0849CD78            00416268     test.OBJ
+ 0001:00015290       ___vba@0849CD90            00416290     test.OBJ
+ 0001:000152b0       ___vba@0849CDC8            004162b0     test.OBJ
+ 0001:000152dc       ___vba@0849CDE4            004162dc     test.OBJ
+ 0001:000152fc       ___vba@0849CE1C            004162fc     test.OBJ
+ 0001:00015310       ___vba@0849CE38            00416310     test.OBJ
+ 0001:0001531c       ___vba@0849CE48            0041631c     test.OBJ
+ 0001:0001533c       ___vba@04337BB4            0041633c     test.OBJ
+ 0001:0001535c       ___vba@04337BEC            0041635c     test.OBJ
+ 0001:00015388       ___vba@04337C08            00416388     test.OBJ
+ 0001:000153a8       ___vba@04337C40            004163a8     test.OBJ
+ 0001:000153d8       ___vba@04337C60            004163d8     test.OBJ
+ 0001:000153f8       ___vba@04337C98            004163f8     test.OBJ
+ 0001:00015420       ___vba@04337CB0            00416420     test.OBJ
+ 0001:00015440       ___vba@04337CE8            00416440     test.OBJ
+ 0001:00015464       ___vba@04337CFC            00416464     test.OBJ
+ 0001:00015484       ___vba@04337D34            00416484     test.OBJ
+ 0001:000154ac       ___vba@04337D4C            004164ac     test.OBJ
+ 0001:000154cc       ___vba@04337D84            004164cc     test.OBJ
+ 0001:000154d8       ___vba@04337D98            004164d8     test.OBJ
+ 0001:000154e4       ___vba@04337DA8            004164e4     test.OBJ
+ 0001:00015504       ___vba@083D8CDC            00416504     test.OBJ
+ 0001:00015520       ___vba@083D8D14            00416520     test.OBJ
+ 0001:00015530       ___vba@083D8D28            00416530     test.OBJ
+ 0001:00015538       ___vba@083D8D34            00416538     test.OBJ
+ 0001:00015540       ___vba@083D8D40            00416540     test.OBJ
+ 0001:00015548       ___vba@083D8D4C            00416548     test.OBJ
+ 0001:00015550       ___vba@083D8D58            00416550     test.OBJ
+ 0001:00015558       ___vba@083D8D64            00416558     test.OBJ
+ 0001:00015560       ___vba@083D8D70            00416560     test.OBJ
+ 0001:00015570       ___vba@083D8D84            00416570     test.OBJ
+ 0001:00015590       ___vba@083D8DA8            00416590     test.OBJ
+ 0001:00015598       ___vba@083D8DB4            00416598     test.OBJ
+ 0001:000155c0       ___vba@083D8DE0            004165c0     test.OBJ
+ 0001:000155d0       ___vba@083D8DF4            004165d0     test.OBJ
+ 0001:000155dc       ___vba@083D8E04            004165dc     test.OBJ
+ 0001:000155e8       ___vba@083D8E14            004165e8     test.OBJ
+ 0001:000155f8       ___vba@083D8E28            004165f8     test.OBJ
+ 0001:00015608       ___vba@083D8E3C            00416608     test.OBJ
+ 0001:00015610       ___vba@083D8E48            00416610     test.OBJ
+ 0001:0001561c       ___vba@083D8E58            0041661c     test.OBJ
+ 0001:0001562c       ___vba@083D8E6C            0041662c     test.OBJ
+ 0001:00015638       ___vba@083D8E7C            00416638     test.OBJ
+ 0001:00015648       ___vba@083D8E90            00416648     test.OBJ
+ 0001:00015654       ___vba@083D8EA0            00416654     test.OBJ
+ 0001:00015668       ___vba@083D8EB8            00416668     test.OBJ
+ 0001:00015670       ___vba@083D8EC4            00416670     test.OBJ
+ 0001:00015684       ___vba@084F3E64            00416684     test.OBJ
+ 0001:00015700       ___vba@084F3EE0            00416700     test.OBJ
+ 0001:00015724       ___vba@084F3F08            00416724     test.OBJ
+ 0001:00015738       ___vba@084F3F20            00416738     test.OBJ
+ 0001:0001575c       ___vba@084F3F48            0041675c     test.OBJ
+ 0001:00015770       ___vba@084F3F60            00416770     test.OBJ
+ 0001:00015780       ___vba@084F3F74            00416780     test.OBJ
+ 0001:00015790       ___vba@084F3F88            00416790     test.OBJ
+ 0001:00015860       ___vba@084F492C            00416860     test.OBJ
+ 0001:00015930       ___vba@084F4A00            00416930     test.OBJ
+ 0001:00015a00       ___vba@084F4AD4            00416a00     test.OBJ
+ 0001:00015a44       ___vba@084F4B20            00416a44     test.OBJ
+ 0001:00015a50       ___vba@084F339C            00416a50     test.OBJ
+ 0001:00015b20       ___vba@084F3470            00416b20     test.OBJ
+ 0001:00015b2c       ___vba@084F3480            00416b2c     test.OBJ
+ 0001:00015b48       ___vba@084F34A0            00416b48     test.OBJ
+ 0001:00015b64       ___vba@084F34C0            00416b64     test.OBJ
+ 0001:00015b84       ___vba@084F34E8            00416b84     test.OBJ
+ 0001:00015b98       ___vba@084F34FC            00416b98     test.OBJ
+ 0001:00015ba8       ___vba@084F3510            00416ba8     test.OBJ
+ 0001:00015bc0       ___vba@084F352C            00416bc0     test.OBJ
+ 0001:00015bd8       ___vba@084F3548            00416bd8     test.OBJ
+ 0001:00015bf0       ___vba@084F3568            00416bf0     test.OBJ
+ 0001:00015c08       ___vba@084F3584            00416c08     test.OBJ
+ 0001:00015c14       ___vba@084F26AC            00416c14     test.OBJ
+ 0001:00015c28       ___vba@084F26C0            00416c28     test.OBJ
+ 0001:00015c3c       ___vba@084F26D8            00416c3c     test.OBJ
+ 0001:00015c48       ___vba@084F26EC            00416c48     test.OBJ
+ 0001:00015c5c       ___vba@084F2700            00416c5c     test.OBJ
+ 0001:00015c6c       ___vba@084F2714            00416c6c     test.OBJ
+ 0001:00015c80       ___vba@084F272C            00416c80     test.OBJ
+ 0001:00015c98       ___vba@084F2748            00416c98     test.OBJ
+ 0001:00015cb8       ___vba@084F276C            00416cb8     test.OBJ
+ 0001:00015cd0       ___vba@084F2788            00416cd0     test.OBJ
+ 0001:00015cf4       ___vba@084F27B0            00416cf4     test.OBJ
+ 0001:00015d08       ___vba@084F27C8            00416d08     test.OBJ
+ 0001:00015d20       ___vba@084F27E4            00416d20     test.OBJ
+ 0001:00015d44       ___vba@084F280C            00416d44     test.OBJ
+ 0001:00015d5c       ___vba@084F2828            00416d5c     test.OBJ
+ 0001:00015d80       ___vba@084F2850            00416d80     test.OBJ
+ 0001:00015d98       ___vba@084F286C            00416d98     test.OBJ
+ 0001:00015dc0       ___vba@084F289C            00416dc0     test.OBJ
+ 0001:00015dd0       ___vba@084F2484            00416dd0     test.OBJ
+ 0001:00015dec       ___vba@084F24A4            00416dec     test.OBJ
+ 0001:00015e0c       ___vba@084F24C8            00416e0c     test.OBJ
+ 0001:00015e28       ___vba@084F24E8            00416e28     test.OBJ
+ 0001:00015e44       ___vba@084F2508            00416e44     test.OBJ
+ 0001:00015e60       ___vba@084F2528            00416e60     test.OBJ
+ 0001:00015e7c       ___vba@084F2548            00416e7c     test.OBJ
+ 0001:00015e8c       ___vba@084F255C            00416e8c     test.OBJ
+ 0001:00015ea8       ___vba@084F257C            00416ea8     test.OBJ
+ 0001:00015eb8       ___vba@084F2590            00416eb8     test.OBJ
+ 0001:00015edc       ___vba@084F25B8            00416edc     test.OBJ
+ 0001:00015ef0       ___vba@084F25D0            00416ef0     test.OBJ
+ 0001:00015f18       ___vba@084F25FC            00416f18     test.OBJ
+ 0001:00015f30       ___vba@084F2618            00416f30     test.OBJ
+ 0001:00015f50       ___vba@084F263C            00416f50     test.OBJ
+ 0001:00015f70       ___vba@084F2664            00416f70     test.OBJ
+ 0001:00015f88       ___vba@084F28D4            00416f88     test.OBJ
+ 0001:00015fa8       ___vba@084F28F8            00416fa8     test.OBJ
+ 0001:00015fc4       ___vba@084F2918            00416fc4     test.OBJ
+ 0001:00015fec       ___vba@084F2944            00416fec     test.OBJ
+ 0001:00016014       ___vba@084F2970            00417014     test.OBJ
+ 0001:00016020       ___vba@084F2984            00417020     test.OBJ
+ 0001:00016058       ___vba@084F29C0            00417058     test.OBJ
+ 0001:0001606c       ___vba@084F2A10            0041706c     test.OBJ
+ 0001:0001607c       ___vba@084F2A5C            0041707c     test.OBJ
+ 0001:00016088       ___vba@084F2AA4            00417088     test.OBJ
+ 0001:0001609c       ___vba@084F2ABC            0041709c     test.OBJ
+ 0001:000160b0       ___vba@084F3824            004170b0     test.OBJ
+ 0001:000160c0       ___vba@084F3870            004170c0     test.OBJ
+ 0001:000160d0       ___vba@084F38BC            004170d0     test.OBJ
+ 0001:000160dc       ___vba@084F3904            004170dc     test.OBJ
+ 0001:000160f4       ___vba@084F3958            004170f4     test.OBJ
+ 0001:00016104       ___vba@084F39A4            00417104     test.OBJ
+ 0001:00016114       ___vba@084F39B8            00417114     test.OBJ
+ 0001:00016124       ___vba@084F39CC            00417124     test.OBJ
+ 0001:00016138       ___vba@084F42EC            00417138     test.OBJ
+ 0001:00016148       ___vba@084F4370            00417148     test.OBJ
+ 0001:00016154       ___vba@084F43F0            00417154     test.OBJ
+ 0001:00016160       ___vba@084F4438            00417160     test.OBJ
+ 0001:0001616c       ___vba@084F4480            0041716c     test.OBJ
+ 0001:00016178       ___vba@084F4490            00417178     test.OBJ
+ 0001:00016188       ___vba@084F44A4            00417188     test.OBJ
+ 0001:00016194       ___vba@084F3A84            00417194     test.OBJ
+ 0001:000161a4       ___vba@084F3AD0            004171a4     test.OBJ
+ 0001:000161b8       ___vba@084F3B20            004171b8     test.OBJ
+ 0001:000161c4       ___vba@084F3BD8            004171c4     test.OBJ
+ 0001:000161d4       ___vba@084F3BE8            004171d4     test.OBJ
+ 0001:000161e8       ___vba@084F3C04            004171e8     test.OBJ
+ 0001:000161f4       ___vba@084F4FDC            004171f4     test.OBJ
+ 0001:00016204       ___vba@084F5028            00417204     test.OBJ
+ 0001:00016214       ___vba@084F5074            00417214     test.OBJ
+ 0001:00016224       ___vba@084F50C0            00417224     test.OBJ
+ 0001:00016234       ___vba@084F50D4            00417234     test.OBJ
+ 0001:00016244       ___vba@084F50E8            00417244     test.OBJ
+ 0001:00016254       ___vba@084F50FC            00417254     test.OBJ
+ 0001:00016264       ___vba@084F5110            00417264     test.OBJ
+ 0001:00016274       ___vba@084F5124            00417274     test.OBJ
+ 0001:00016280       ___vba@084F5134            00417280     test.OBJ
+ 0001:00016290       ___vba@084F5144            00417290     test.OBJ
+ 0001:000162b8       ___vba@084F515C            004172b8     test.OBJ
+ 0001:000162d4       ___vba@084F5194            004172d4     test.OBJ
+ 0001:000162f8       ___vba@084F408C            004172f8     test.OBJ
+ 0001:00016318       ___vba@084F40C4            00417318     test.OBJ
+ 0001:0001634c       ___vba@084F40E8            0041734c     test.OBJ
+ 0001:0001636c       ___vba@084F4120            0041736c     test.OBJ
+ 0001:00016394       ___vba@084F4138            00417394     test.OBJ
+ 0001:000163b4       ___vba@084F4170            004173b4     test.OBJ
+ 0001:000163d8       ___vba@084F4184            004173d8     test.OBJ
+ 0001:000163f8       ___vba@084F41BC            004173f8     test.OBJ
+ 0001:00016420       ___vba@084F41D4            00417420     test.OBJ
+ 0001:00016440       ___vba@084F420C            00417440     test.OBJ
+ 0001:00016464       ___vba@084F4220            00417464     test.OBJ
+ 0001:00016484       ___vba@084F4258            00417484     test.OBJ
+ 0001:00016490       ___vba@084F426C            00417490     test.OBJ
+ 0001:0001649c       ___vba@084F427C            0041749c     test.OBJ
+ 0001:000164c0       ___vba@084F44DC            004174c0     test.OBJ
+ 0001:000164e0       ___vba@084F4514            004174e0     test.OBJ
+ 0001:00016504       ___vba@084F4528            00417504     test.OBJ
+ 0001:00016524       ___vba@084F4560            00417524     test.OBJ
+ 0001:00016548       ___vba@084F4574            00417548     test.OBJ
+ 0001:00016568       ___vba@084F45AC            00417568     test.OBJ
+ 0001:00016588       ___vba@084F45BC            00417588     test.OBJ
+ 0001:000165a8       ___vba@084F45F4            004175a8     test.OBJ
+ 0001:000165cc       ___vba@084F4608            004175cc     test.OBJ
+ 0001:000165e8       ___vba@084F4640            004175e8     test.OBJ
+ 0001:000165f4       ___vba@084F4650            004175f4     test.OBJ
+ 0001:00016600       ___vba@084F4660            00417600     test.OBJ
+ 0001:00016614       ___vba@084F4678            00417614     test.OBJ
+ 0001:00016624       ___vba@084F468C            00417624     test.OBJ
+ 0001:00016638       ___vba@084F46A4            00417638     test.OBJ
+ 0001:00016648       ___vba@084F46B8            00417648     test.OBJ
+ 0001:00016660       ___vba@083A2F1C            00417660     test.OBJ
+ 0001:0001666c       ___vba@083A2F2C            0041766c     test.OBJ
+ 0001:00016678       ___vba@083A2F3C            00417678     test.OBJ
+ 0001:00016680       ___vba@083A2F48            00417680     test.OBJ
+ 0001:0001668c       ___vba@083A2F58            0041768c     test.OBJ
+ 0001:000166d8       ___vba@083A2FA4            004176d8     test.OBJ
+ 0001:000166f8       ___vba@083A2FC8            004176f8     test.OBJ
+ 0001:00016724       ___vba@083A2FF8            00417724     test.OBJ
+ 0001:00016744       ___vba@083A301C            00417744     test.OBJ
+ 0001:0001676c       ___vba@083A3048            0041776c     test.OBJ
+ 0001:00016790       ___vba@083A3070            00417790     test.OBJ
+ 0001:000167c0       ___vba@083A30A4            004177c0     test.OBJ
+ 0001:000167e0       ___vba@083A30C8            004177e0     test.OBJ
+ 0001:00016808       ___vba@083A30F4            00417808     test.OBJ
+ 0001:0001682c       ___vba@084DC17C            0041782c     test.OBJ
+ 0001:00016858       ___vba@084DC1AC            00417858     test.OBJ
+ 0001:00016870       ___vba@084DC1C8            00417870     test.OBJ
+ 0001:00016884       ___vba@084DC1E0            00417884     test.OBJ
+ 0001:00016898       ___vba@084DC1F8            00417898     test.OBJ
+ 0001:000168c0       ___vba@084DC224            004178c0     test.OBJ
+ 0001:000168e8       ___vba@084DC250            004178e8     test.OBJ
+ 0001:00016908       ___vba@084DC274            00417908     test.OBJ
+ 0001:0001692c       ___vba@084DC29C            0041792c     test.OBJ
+ 0001:00016954       ___vba@084DC2C8            00417954     test.OBJ
+ 0001:00016970       ___vba@084DC2E8            00417970     test.OBJ
+ 0001:0001698c       ___vba@084DC308            0041798c     test.OBJ
+ 0001:000169a4       ___vba@084DC328            004179a4     test.OBJ
+ 0001:000169bc       ___vba@084DC340            004179bc     test.OBJ
+ 0001:000169d4       ___vba@084DC360            004179d4     test.OBJ
+ 0001:000169e8       ___vba@084DB264            004179e8     test.OBJ
+ 0001:00016a04       ___vba@084DB284            00417a04     test.OBJ
+ 0001:00016a34       ___vba@084DB2B8            00417a34     test.OBJ
+ 0001:00016a8c       ___vba@084DB314            00417a8c     test.OBJ
+ 0001:00016ac0       ___vba@084DB350            00417ac0     test.OBJ
+ 0001:00016ad0       ___vba@084DB364            00417ad0     test.OBJ
+ 0001:00016ae0       ___vba@084DB378            00417ae0     test.OBJ
+ 0001:00016af4       ___vba@084DB38C            00417af4     test.OBJ
+ 0001:00016b0c       ___vba@084DB3A8            00417b0c     test.OBJ
+ 0001:00016b28       ___vba@084DB3C8            00417b28     test.OBJ
+ 0001:00016b48       ___vba@084DB3EC            00417b48     test.OBJ
+ 0001:00016b50       ___vba@084DB3F8            00417b50     test.OBJ
+ 0001:00016b8c       ___vba@084DB43C            00417b8c     test.OBJ
+ 0001:00016b9c       ___vba@084DB450            00417b9c     test.OBJ
+ 0001:00016bb0       ___vba@084D9884            00417bb0     test.OBJ
+ 0001:00016bf0       ___vba@084D98C8            00417bf0     test.OBJ
+ 0001:00016c3c       ___vba@084D9918            00417c3c     test.OBJ
+ 0001:00016c5c       ___vba@084D993C            00417c5c     test.OBJ
+ 0001:00016ca0       ___vba@084D9984            00417ca0     test.OBJ
+ 0001:00016cb4       ___vba@084D999C            00417cb4     test.OBJ
+ 0001:00016cf4       ___vba@084D99E4            00417cf4     test.OBJ
+ 0001:00016d00       ___vba@084D9A64            00417d00     test.OBJ
+ 0001:00016d14       ___vba@084DB03C            00417d14     test.OBJ
+ 0001:00016e14       ___vba@084DB140            00417e14     test.OBJ
+ 0001:00016e28       ___vba@084DB158            00417e28     test.OBJ
+ 0001:00016e44       ___vba@084DB178            00417e44     test.OBJ
+ 0001:00016e70       ___vba@084DB1A8            00417e70     test.OBJ
+ 0001:00016e78       ___vba@084DB1B4            00417e78     test.OBJ
+ 0001:00016e84       ___vba@084DB1C4            00417e84     test.OBJ
+ 0001:00016e9c       ___vba@084DB1E0            00417e9c     test.OBJ
+ 0001:00016eb0       ___vba@084DA194            00417eb0     test.OBJ
+ 0001:00016ebc       ___vba@084DA214            00417ebc     test.OBJ
+ 0001:00016ed0       ___vba@084DA264            00417ed0     test.OBJ
+ 0001:00016edc       ___vba@084DA2AC            00417edc     test.OBJ
+ 0001:00016ee8       ___vba@084DA2F4            00417ee8     test.OBJ
+ 0001:00016ef8       ___vba@084DA308            00417ef8     test.OBJ
+ 0001:00016f08       ___vba@084D9D44            00417f08     test.OBJ
+ 0001:00016f14       ___vba@084D9D8C            00417f14     test.OBJ
+ 0001:00016f24       ___vba@084D9DD8            00417f24     test.OBJ
+ 0001:00016f34       ___vba@084D9DEC            00417f34     test.OBJ
+ 0001:00016f44       ___vba@084D9E00            00417f44     test.OBJ
+ 0001:00016f54       ___vba@084D9E14            00417f54     test.OBJ
+ 0001:00016f64       ___vba@084D9E28            00417f64     test.OBJ
+ 0001:00016f74       ___vba@084D9E3C            00417f74     test.OBJ
+ 0001:00016f80       ___vba@084D9E4C            00417f80     test.OBJ
+ 0001:00016f90       ___vba@084D9E60            00417f90     test.OBJ
+ 0001:00016fa0       ___vba@084D9E74            00417fa0     test.OBJ
+ 0001:00016fb0       ___vba@084D9E88            00417fb0     test.OBJ
+ 0001:00016fc0       ___vba@084D9E9C            00417fc0     test.OBJ
+ 0001:00016fd0       ___vba@084D9EB0            00417fd0     test.OBJ
+ 0001:00016fe4       ___vba@084D9EFC            00417fe4     test.OBJ
+ 0001:00017010       ___vba@084D9F2C            00418010     test.OBJ
+ 0001:00017020       ___vba@084D9F40            00418020     test.OBJ
+ 0001:0001705c       ___vba@084D9F80            0041805c     test.OBJ
+ 0001:000170a0       ___vba@084D9FCC            004180a0     test.OBJ
+ 0001:000170b0       ___vba@084D9FE0            004180b0     test.OBJ
+ 0001:000170c0       ___vba@084D9FF4            004180c0     test.OBJ
+ 0001:000170d0       ___vba@084DA008            004180d0     test.OBJ
+ 0001:000170e0       ___vba@084DA01C            004180e0     test.OBJ
+ 0001:000170ec       ___vba@084DA02C            004180ec     test.OBJ
+ 0001:000170fc       ___vba@084DA040            004180fc     test.OBJ
+ 0001:00017104       ___vba@084DA04C            00418104     test.OBJ
+ 0001:00017110       ___vba@084DA05C            00418110     test.OBJ
+ 0001:00017120       ___vba@084DA070            00418120     test.OBJ
+ 0001:0001712c       ___vba@084DA080            0041812c     test.OBJ
+ 0001:0001713c       ___vba@084DA094            0041813c     test.OBJ
+ 0001:00017160       ___vba@084DA0BC            00418160     test.OBJ
+ 0001:0001716c       ___vba@084DA0CC            0041816c     test.OBJ
+ 0001:00017198       ___vba@084DC5CC            00418198     test.OBJ
+ 0001:000171a8       ___vba@084DC5E0            004181a8     test.OBJ
+ 0001:000171b0       ___vba@084DC5EC            004181b0     test.OBJ
+ 0001:000171b8       ___vba@084DC5F8            004181b8     test.OBJ
+ 0001:000171c0       ___vba@084DC604            004181c0     test.OBJ
+ 0001:000171c8       ___vba@084DC610            004181c8     test.OBJ
+ 0001:000171d8       ___vba@084DC620            004181d8     test.OBJ
+ 0001:000171fc       ___vba@084DC634            004181fc     test.OBJ
+ 0001:0001721c       ___vba@084DC66C            0041821c     test.OBJ
+ 0001:00017248       ___vba@084DC688            00418248     test.OBJ
+ 0001:00017264       ___vba@084DC6C0            00418264     test.OBJ
+ 0001:0001726c       ___vba@084DC6CC            0041826c     test.OBJ
+ 0001:00017274       ___vba@084DC6D8            00418274     test.OBJ
+ 0001:000172b0       ___vba@084DC718            004182b0     test.OBJ
+ 0001:000172c8       ___vba@084DC734            004182c8     test.OBJ
+ 0001:000172dc       ___vba@084DC748            004182dc     test.OBJ
+ 0001:00017308       ___vba@084DC778            00418308     test.OBJ
+ 0001:00017334       ___vba@084DC7AC            00418334     test.OBJ
+ 0001:00017348       ___vba@084DB8DC            00418348     test.OBJ
+ 0001:0001736c       ___vba@084DB904            0041836c     test.OBJ
+ 0001:0001737c       ___vba@084DB918            0041837c     test.OBJ
+ 0001:000173c0       ___vba@084DB960            004183c0     test.OBJ
+ 0001:000173cc       ___vba@084DB970            004183cc     test.OBJ
+ 0001:000173f8       ___vba@084DB9A0            004183f8     test.OBJ
+ 0001:00017408       ___vba@084DB9B4            00418408     test.OBJ
+ 0001:00017420       ___vba@084DB9D4            00418420     test.OBJ
+ 0001:0001742c       ___vba@084DBA54            0041842c     test.OBJ
+ 0001:0001743c       ___vba@084DBAA0            0041843c     test.OBJ
+ 0001:0001744c       ___vba@084DBAB0            0041844c     test.OBJ
+ 0001:0001746c       ___vba@084DA7D4            0041846c     test.OBJ
+ 0001:00017488       ___vba@084DA7F4            00418488     test.OBJ
+ 0001:00017494       ___vba@084DA804            00418494     test.OBJ
+ 0001:000174c4       ___vba@084DA874            004184c4     test.OBJ
+ 0001:000174d4       ___vba@084DA888            004184d4     test.OBJ
+ 0001:000174e4       ___vba@084DA89C            004184e4     test.OBJ
+ 0001:000174f4       ___vba@084DA8B0            004184f4     test.OBJ
+ 0001:00017504       ___vba@084DA8C4            00418504     test.OBJ
+ 0001:0001750c       ___vba@084DA8D0            0041850c     test.OBJ
+ 0001:00017514       ___vba@084DA8DC            00418514     test.OBJ
+ 0001:0001751c       ___vba@084DA8E8            0041851c     test.OBJ
+ 0001:00017524       ___vba@084DA8F4            00418524     test.OBJ
+ 0001:0001752c       ___vba@084DA900            0041852c     test.OBJ
+ 0001:0001753c       ___vba@084DA910            0041853c     test.OBJ
+ 0001:00017550       ___vba@084DA928            00418550     test.OBJ
+ 0001:00017560       ___vba@084DA93C            00418560     test.OBJ
+ 0001:0001756c       ___vba@084DA94C            0041856c     test.OBJ
+ 0001:0001757c       ___vba@084DA964            0041857c     test.OBJ
+ 0001:00017590       ___vba@084DA978            00418590     test.OBJ
+ 0001:000175a8       ___vba@084DA9C4            004185a8     test.OBJ
+ 0001:000175b8       ___vba@084DA9D8            004185b8     test.OBJ
+ 0001:0001760c       ___vba@084DAA30            0041860c     test.OBJ
+ 0001:00017618       ___vba@084DAA40            00418618     test.OBJ
+ 0001:0001764c       ___vba@084DAA78            0041864c     test.OBJ
+ 0001:00017658       ___vba@084DAA88            00418658     test.OBJ
+ 0001:00017668       ___vba@084DAA9C            00418668     test.OBJ
+ 0001:00017678       ___vba@084DAAB0            00418678     test.OBJ
+ 0001:00017688       ___vba@084DAAC4            00418688     test.OBJ
+ 0001:000176a0       ___vba@084DAAE0            004186a0     test.OBJ
+ 0001:000176b4       ___vba@084DAAF8            004186b4     test.OBJ
+ 0001:000176cc       ___vba@084DAB14            004186cc     test.OBJ
+ 0001:000176e8       ___vba@084DAB34            004186e8     test.OBJ
+ 0001:00017708       ___vba@084DAB58            00418708     test.OBJ
+ 0001:0001773c       ___vba@084DAB90            0041873c     test.OBJ
+ 0001:00017750       ___vba@084DABAC            00418750     test.OBJ
+ 0001:00017768       ___vba@084D9AAC            00418768     test.OBJ
+ 0001:000177f0       ___vba@084D9B38            004187f0     test.OBJ
+ 0001:00017810       ___vba@084D9B5C            00418810     test.OBJ
+ 0001:00017824       ___vba@084D9B78            00418824     test.OBJ
+ 0001:0001783c       ___vba@084D9B90            0041883c     test.OBJ
+ 0001:0001784c       ___vba@084D9BA8            0041884c     test.OBJ
+ 0001:00017864       ___vba@084D9BC0            00418864     test.OBJ
+ 0001:00017890       ___vba@084D9BF0            00418890     test.OBJ
+ 0001:000178b8       ___vba@084D9C20            004188b8     test.OBJ
+ 0001:000178c4       ___vba@084D9C68            004188c4     test.OBJ
+ 0001:000178dc       ___vba@084D9C80            004188dc     test.OBJ
+ 0001:000178f4       ___vba@084DAE84            004188f4     test.OBJ
+ 0001:00017904       ___vba@084DAED0            00418904     test.OBJ
+ 0001:00017918       ___vba@084DAEE4            00418918     test.OBJ
+ 0001:00017928       ___vba@084DAEF8            00418928     test.OBJ
+ 0001:00017938       ___vba@084DAF0C            00418938     test.OBJ
+ 0001:00017948       ___vba@084DAF20            00418948     test.OBJ
+ 0001:00017958       ___vba@084DAF34            00418958     test.OBJ
+ 0001:00017964       ___vba@084DAF48            00418964     test.OBJ
+ 0001:00017978       ___vba@084DAF5C            00418978     test.OBJ
+ 0001:000179b4       ___vba@084DAF9C            004189b4     test.OBJ
+ 0001:000179c8       ___vba@084DAFB8            004189c8     test.OBJ
+ 0001:000179dc       ___vba@084DAFD0            004189dc     test.OBJ
+ 0001:000179ec       ___vba@084DAFE4            004189ec     test.OBJ
+ 0001:00017a04       ___vba@084DAFFC            00418a04     test.OBJ
+ 0001:00017a10       ___vba@084DC7F4            00418a10     test.OBJ
+ 0001:00017a34       ___vba@084DC81C            00418a34     test.OBJ
+ 0001:00017a44       ___vba@084DC830            00418a44     test.OBJ
+ 0001:00017a78       ___vba@084DC868            00418a78     test.OBJ
+ 0001:00017a84       ___vba@084DC87C            00418a84     test.OBJ
+ 0001:00017a98       ___vba@084DC890            00418a98     test.OBJ
+ 0001:00017aa8       ___vba@084DC8A4            00418aa8     test.OBJ
+ 0001:00017abc       ___vba@084DC8BC            00418abc     test.OBJ
+ 0001:00017ac4       ___vba@084DC8C8            00418ac4     test.OBJ
+ 0001:00017ad0       ___vba@084DC8D8            00418ad0     test.OBJ
+ 0001:00017ad8       ___vba@084DC8E4            00418ad8     test.OBJ
+ 0001:00017af4       ___vba@084DC908            00418af4     test.OBJ
+ 0001:00017b00       ___vba@084DC950            00418b00     test.OBJ
+ 0001:00017b0c       ___vba@084DC998            00418b0c     test.OBJ
+ 0001:00017b18       ___vba@084DC9E0            00418b18     test.OBJ
+ 0001:00017b28       ___vba@084DC3DC            00418b28     test.OBJ
+ 0001:00017b40       ___vba@084DC468            00418b40     test.OBJ
+ 0001:00017b58       ___vba@084DC4BC            00418b58     test.OBJ
+ 0001:00017b68       ___vba@084DC508            00418b68     test.OBJ
+ 0001:00017b7c       ___vba@084DC554            00418b7c     test.OBJ
+ 0001:00017b90       ___vba@084DC56C            00418b90     test.OBJ
+ 0001:00017ba0       ___vba@084DC580            00418ba0     test.OBJ
+ 0001:00017ba4       ___vba@084DC58C            00418ba4     test.OBJ
+ 0001:00017bbc       ___vba@084DBD2C            00418bbc     test.OBJ
+ 0001:00017be8       ___vba@084DBD5C            00418be8     test.OBJ
+ 0001:00017c10       ___vba@084DBD88            00418c10     test.OBJ
+ 0001:00017c28       ___vba@084DBDA4            00418c28     test.OBJ
+ 0001:00017c34       ___vba@084DBDB4            00418c34     test.OBJ
+ 0001:00017c40       ___vba@084DBDC4            00418c40     test.OBJ
+ 0001:00017c6c       ___vba@084DBDE0            00418c6c     test.OBJ
+ 0001:00017c8c       ___vba@084DBE18            00418c8c     test.OBJ
+ 0001:00017cbc       ___vba@084DBE38            00418cbc     test.OBJ
+ 0001:00017cdc       ___vba@084DBE70            00418cdc     test.OBJ
+ 0001:00017cf0       ___vba@084DBE88            00418cf0     test.OBJ
+ 0001:00017d24       ___vba@084DBEAC            00418d24     test.OBJ
+ 0001:00017d44       ___vba@084DBEE4            00418d44     test.OBJ
+ 0001:00017d54       ___vba@084DBEFC            00418d54     test.OBJ
+ 0001:00017d64       ___vba@084DBF10            00418d64     test.OBJ
+ 0001:00017d8c       ___vba@084DB6B4            00418d8c     test.OBJ
+ 0001:00017dac       ___vba@084DB6EC            00418dac     test.OBJ
+ 0001:00017dd8       ___vba@084DB708            00418dd8     test.OBJ
+ 0001:00017df8       ___vba@084DB740            00418df8     test.OBJ
+ 0001:00017e24       ___vba@084DB75C            00418e24     test.OBJ
+ 0001:00017e44       ___vba@084DB794            00418e44     test.OBJ
+ 0001:00017e68       ___vba@084DB7A8            00418e68     test.OBJ
+ 0001:00017e84       ___vba@084DB7E0            00418e84     test.OBJ
+ 0001:00017e90       ___vba@084DB7F0            00418e90     test.OBJ
+ 0001:00017ea4       ___vba@084DB804            00418ea4     test.OBJ
+ 0001:00017ed0       ___vba@084DB834            00418ed0     test.OBJ
+ 0001:00017ee0       ___vba@084DB848            00418ee0     test.OBJ
+ 0001:00017efc       ___vba@084DB868            00418efc     test.OBJ
+ 0001:00017f20       ___vba@084DB894            00418f20     test.OBJ
+ 0001:00017f30       ___vba@084DBB04            00418f30     test.OBJ
+ 0001:00017f40       ___vba@084DBB18            00418f40     test.OBJ
+ 0001:00017f50       ___vba@084DBB2C            00418f50     test.OBJ
+ 0001:00017f60       ___vba@084DBB40            00418f60     test.OBJ
+ 0001:00017f6c       ___vba@084DBB50            00418f6c     test.OBJ
+ 0001:00017f7c       ___vba@084DBB64            00418f7c     test.OBJ
+ 0001:00017f98       ___vba@084DBB80            00418f98     test.OBJ
+ 0001:00017fc0       ___vba@084DBB98            00418fc0     test.OBJ
+ 0001:00017fe0       ___vba@084DBBD0            00418fe0     test.OBJ
+ 0001:00018008       ___vba@084DBBE8            00419008     test.OBJ
+ 0001:00018028       ___vba@084DBC20            00419028     test.OBJ
+ 0001:0001805c       ___vba@084DBC44            0041905c     test.OBJ
+ 0001:0001807c       ___vba@084DBC7C            0041907c     test.OBJ
+ 0001:000180a0       ___vba@084DBC90            004190a0     test.OBJ
+ 0001:000180c0       ___vba@084DBCC8            004190c0     test.OBJ
+ 0001:000180ec       ___vba@084DBF54            004190ec     test.OBJ
+ 0001:0001810c       ___vba@084DBF8C            0041910c     test.OBJ
+ 0001:00018110       ___vba@084DBF98            00419110     test.OBJ
+ 0001:00018120       ___vba@084DBFE4            00419120     test.OBJ
+ 0001:0001812c       ___vba@084DC02C            0041912c     test.OBJ
+ 0001:00018140       ___vba@084DC040            00419140     test.OBJ
+ 0001:00018170       ___vba@084DC074            00419170     test.OBJ
+ 0001:000181a0       ___vba@084DC0AC            004191a0     test.OBJ
+ 0001:000181ac       ___vba@084DC0B8            004191ac     test.OBJ
+ 0001:000181ec       ___vba@084DC0FC            004191ec     test.OBJ
+ 0001:00018214       ___vba@084DC128            00419214     test.OBJ
+ 0001:0001823c       ___vba@084DCC44            0041923c     test.OBJ
+ 0001:00018258       ___vba@084DCC68            00419258     test.OBJ
+ 0001:000a2ca4       ___vba@04338ACC            004a3ca4     test.OBJ
+ 0001:000a2ce4       ___vba@04338CF4            004a3ce4     test.OBJ
+ 0001:000a2d24       ___vba@083A5A3C            004a3d24     test.OBJ
+ 0001:000a2da4       ___vba@083A4B24            004a3da4     test.OBJ
+ 0001:000a2de4       ___vba@083A5E8C            004a3de4     test.OBJ
+ 0001:000a2e24       ___vba@083A28A4            004a3e24     test.OBJ
+ 0001:000a2e64       ___vba@083A405C            004a3e64     test.OBJ
+ 0001:000a2ea4       ___vba@04336A74            004a3ea4     test.OBJ
+ 0001:000a2ee4       ___vba@04335B5C            004a3ee4     test.OBJ
+ 0001:000a2f24       ___vba@043388A4            004a3f24     test.OBJ
+ 0001:000a2f64       ___vba@083A519C            004a3f64     test.OBJ
+ 0001:000a2fa4       ___vba@083A3594            004a3fa4     test.OBJ
+ 0001:000a2fe4       ___vba@083A3E34            004a3fe4     test.OBJ
+ 0001:000a3024       ___vba@083A5814            004a4024     test.OBJ
+ 0001:000a3064       ___vba@083A46D4            004a4064     test.OBJ
+ 0001:000a30a4       ___vba@083A55EC            004a40a4     test.OBJ
+ 0001:000a3b94       ___vba@04335D84            004a4b94     test.OBJ
+ 0001:000a3bbc       ___vba@04335DB0            004a4bbc     test.OBJ
+ 0001:000a3bc8       ___vba@04335DC0            004a4bc8     test.OBJ
+ 0001:000a3bd4       ___vba@04335DD0            004a4bd4     test.OBJ
+ 0001:000a3be0       ___vba@04335DE0            004a4be0     test.OBJ
+ 0001:000a3bec       ___vba@04335DF0            004a4bec     test.OBJ
+ 0001:000a3bf8       ___vba@04335E00            004a4bf8     test.OBJ
+ 0001:000a3c04       ___vba@04335E10            004a4c04     test.OBJ
+ 0001:000a3c10       ___vba@04335E20            004a4c10     test.OBJ
+ 0001:000a3c1c       ___vba@04335E30            004a4c1c     test.OBJ
+ 0001:000a3c28       ___vba@04335E40            004a4c28     test.OBJ
+ 0001:000a3c34       ___vba@04335E50            004a4c34     test.OBJ
+ 0001:000a3c40       ___vba@04335E60            004a4c40     test.OBJ
+ 0001:000a3c4c       ___vba@04335E70            004a4c4c     test.OBJ
+ 0001:000a3c58       ___vba@04335E80            004a4c58     test.OBJ
+ 0001:000a3c68       ___vba@04335E94            004a4c68     test.OBJ
+ 0001:000a3c74       ___vba@04335EA4            004a4c74     test.OBJ
+ 0001:000a3c80       ___vba@04335EB4            004a4c80     test.OBJ
+ 0001:000a3c88       ___vba@04335EC0            004a4c88     test.OBJ
+ 0001:000a3c90       ___vba@04335ECC            004a4c90     test.OBJ
+ 0001:000a3c9c       ___vba@04335EDC            004a4c9c     test.OBJ
+ 0001:000a3ca4       ___vba@04335EE8            004a4ca4     test.OBJ
+ 0001:000a3cb0       ___vba@04335EF8            004a4cb0     test.OBJ
+ 0001:000a3cb8       ___vba@04335F04            004a4cb8     test.OBJ
+ 0001:000a3cc4       ___vba@04335F14            004a4cc4     test.OBJ
+ 0001:000a3ccc       ___vba@04335F20            004a4ccc     test.OBJ
+ 0001:000a3cd4       ___vba@04335F2C            004a4cd4     test.OBJ
+ 0001:000a3cdc       ___vba@04335F38            004a4cdc     test.OBJ
+ 0001:000a3ce8       ___vba@04335F48            004a4ce8     test.OBJ
+ 0001:000a3cf4       ___vba@04335F58            004a4cf4     test.OBJ
+ 0001:000a3d00       ___vba@04335F68            004a4d00     test.OBJ
+ 0001:000a3d08       ___vba@04335F74            004a4d08     test.OBJ
+ 0001:000a3d14       ___vba@084F3174            004a4d14     test.OBJ
+ 0001:000a3d24       ___vba@084F3188            004a4d24     test.OBJ
+ 0001:000a3d30       ___vba@084F3198            004a4d30     test.OBJ
+ 0001:000a3d40       ___vba@084F31AC            004a4d40     test.OBJ
+ 0001:000a3d54       ___vba@084F31C4            004a4d54     test.OBJ
+ 0001:000a3d60       ___vba@084F31D4            004a4d60     test.OBJ
+ 0001:000a3d6c       ___vba@084F31E4            004a4d6c     test.OBJ
+ 0001:000a3d80       ___vba@084F31FC            004a4d80     test.OBJ
+ 0001:000a3d8c       ___vba@084F320C            004a4d8c     test.OBJ
+ 0001:000a3d9c       ___vba@084F3220            004a4d9c     test.OBJ
+ 0001:000a3da8       ___vba@084F3230            004a4da8     test.OBJ
+ 0001:000a3dbc       ___vba@084F3248            004a4dbc     test.OBJ
+ 0001:000a3dcc       ___vba@084F325C            004a4dcc     test.OBJ
+ 0001:000a3ddc       ___vba@084F3270            004a4ddc     test.OBJ
+ 0001:000a3dec       ___vba@084F3284            004a4dec     test.OBJ
+ 0001:000a3dfc       ___vba@084F3298            004a4dfc     test.OBJ
+ 0001:000a3e10       ___vba@084F32B0            004a4e10     test.OBJ
+ 0001:000a3e24       ___vba@084F32C8            004a4e24     test.OBJ
+ 0001:000a3e30       ___vba@084F32D8            004a4e30     test.OBJ
+ 0001:000a3e38       ___vba@084F32E4            004a4e38     test.OBJ
+ 0001:000a3e40       ___vba@084F32F0            004a4e40     test.OBJ
+ 0001:000a3e4c       ___vba@084F3300            004a4e4c     test.OBJ
+ 0001:000a3e54       ___vba@084F330C            004a4e54     test.OBJ
+ 0001:000a3e5c       ___vba@084F3318            004a4e5c     test.OBJ
+ 0001:000a3e6c       ___vba@084F332C            004a4e6c     test.OBJ
+ 0001:000a3e74       ___vba@084F3338            004a4e74     test.OBJ
+ 0001:000a3e80       ___vba@084F3348            004a4e80     test.OBJ
+ 0001:000a3e88       ___vba@084F3354            004a4e88     test.OBJ
+ 0001:000a3e90       ___vba@084F3360            004a4e90     test.OBJ
+ 0001:000a3e98       ___vba@084F336C            004a4e98     test.OBJ
+ 0001:000a3e9c       ___vba@084F1794            004a4e9c     test.OBJ
+ 0001:000a3ea0       ___vba@084F179C            004a4ea0     test.OBJ
+ 0001:000a3ea4       ___vba@084F17A4            004a4ea4     test.OBJ
+ 0001:000a3eac       ___vba@084F17B0            004a4eac     test.OBJ
+ 0001:000a3eb4       ___vba@084F17BC            004a4eb4     test.OBJ
+ 0001:000a3ebc       ___vba@084F17C8            004a4ebc     test.OBJ
+ 0001:000a3ec4       ___vba@084F17D4            004a4ec4     test.OBJ
+ 0001:000a3ec8       ___vba@084F17DC            004a4ec8     test.OBJ
+ 0001:000a3ecc       ___vba@084F17E4            004a4ecc     test.OBJ
+ 0001:000a3ed8       ___vba@084F17F4            004a4ed8     test.OBJ
+ 0001:000a3ee4       ___vba@084F1804            004a4ee4     test.OBJ
+ 0001:000a3ef0       ___vba@084F1814            004a4ef0     test.OBJ
+ 0001:000a3efc       ___vba@084F1824            004a4efc     test.OBJ
+ 0001:000a3f00       VB@BTXT                    004a4f00     test.OBJ
+ 0001:000a3f10       ?Form_Load@FormMain@@AAGXXZ 004a4f10 f   FormMain.OBJ
+ 0001:000a4540       ?Form_Unload@FormMain@@AAGXXZ 004a5540 f   FormMain.OBJ
+ 0001:000a4610       ?Timer1_Timer@FormMain@@AAGXXZ 004a5610 f   FormMain.OBJ
+ 0001:000a4730       ?Timer2_Timer@FormMain@@AAGXXZ 004a5730 f   FormMain.OBJ
+ 0001:000a48b0       ?Timer3_Timer@FormMain@@AAGXXZ 004a58b0 f   FormMain.OBJ
+ 0001:000a4a50       ?Timer4_Timer@FormMain@@AAGXXZ 004a5a50 f   FormMain.OBJ
+ 0001:000a4bf0       ?Form_Load@FormLoad@@AAGXXZ 004a5bf0 f   FormLoad.OBJ
+ 0001:000a5570       ?mabout_Click@FormLoad@@AAGXXZ 004a6570 f   FormLoad.OBJ
+ 0001:000a5660       ?moption_Click@FormLoad@@AAGXXZ 004a6660 f   FormLoad.OBJ
+ 0001:000a5750       ?P_MouseMove@FormLoad@@AAGXXZ 004a6750 f   FormLoad.OBJ
+ 0001:000a5bc0       ?Timer1_Timer@FormLoad@@AAGXXZ 004a6bc0 f   FormLoad.OBJ
+ 0001:000a5c70       ?Form_Load@FormAbout@@AAGXXZ 004a6c70 f   FormAbout.OBJ
+ 0001:000a5e70       ?Form_Unload@FormAbout@@AAGXXZ 004a6e70 f   FormAbout.OBJ
+ 0001:000a5f40       ?Timer1_Timer@FormAbout@@AAGXXZ 004a6f40 f   FormAbout.OBJ
+ 0001:000a6060       ?Timer2_Timer@FormAbout@@AAGXXZ 004a7060 f   FormAbout.OBJ
+ 0001:000a61e0       ?Timer3_Timer@FormAbout@@AAGXXZ 004a71e0 f   FormAbout.OBJ
+ 0001:000a62a0       ?WriteINI@ini@@AAGXXZ      004a72a0 f   ini.OBJ
+ 0001:000a63a0       ?ReadINI@ini@@AAGXXZ       004a73a0 f   ini.OBJ
+ 0001:000a6530       ?RegisterA__Get@MD5@@AAGXXZ 004a7530 f   clsMD5.OBJ
+ 0001:000a65c0       ?RegisterB__Get@MD5@@AAGXXZ 004a75c0 f   clsMD5.OBJ
+ 0001:000a6650       ?RegisterC__Get@MD5@@AAGXXZ 004a7650 f   clsMD5.OBJ
+ 0001:000a66e0       ?RegisterD__Get@MD5@@AAGXXZ 004a76e0 f   clsMD5.OBJ
+ 0001:000a6770       ?DigestFileToHexStr@MD5@@AAGXXZ 004a7770 f   clsMD5.OBJ
+ 0001:000a6900       ?DigestStrToHexStr@MD5@@AAGXXZ 004a7900 f   clsMD5.OBJ
+ 0001:000a6a60       ?StringToArray@MD5@@AAGXXZ 004a7a60 f   clsMD5.OBJ
+ 0001:000a6c20       ?GetValues@MD5@@AAGXXZ     004a7c20 f   clsMD5.OBJ
+ 0001:000a6d80       ?LongToString@MD5@@AAGXXZ  004a7d80 f   clsMD5.OBJ
+ 0001:000a7170       ?MD5Init@MD5@@AAGXXZ       004a8170 f   clsMD5.OBJ
+ 0001:000a7270       ?MD5Final@MD5@@AAGXXZ      004a8270 f   clsMD5.OBJ
+ 0001:000a74a0       ?MD5Update@MD5@@AAGXXZ     004a84a0 f   clsMD5.OBJ
+ 0001:000a7770       ?MD5Transform@MD5@@AAGXXZ  004a8770 f   clsMD5.OBJ
+ 0001:000a8600       ?Decode@MD5@@AAGXXZ        004a9600 f   clsMD5.OBJ
+ 0001:000a8840       ?FF@MD5@@AAGXXZ            004a9840 f   clsMD5.OBJ
+ 0001:000a88f0       ?GG@MD5@@AAGXXZ            004a98f0 f   clsMD5.OBJ
+ 0001:000a89a0       ?HH@MD5@@AAGXXZ            004a99a0 f   clsMD5.OBJ
+ 0001:000a8a40       ?II@MD5@@AAGXXZ            004a9a40 f   clsMD5.OBJ
+ 0001:000a8af0       ?LongLeftRotate@MD5@@AAGXXZ 004a9af0 f   clsMD5.OBJ
+ 0001:000a8bd0       ?LongOverflowAdd@MD5@@AAGXXZ 004a9bd0 f   clsMD5.OBJ
+ 0001:000a8cc0       ?LongOverflowAdd4@MD5@@AAGXXZ 004a9cc0 f   clsMD5.OBJ
+ 0001:000a8e10       ?UnsignedToLong@MD5@@AAGXXZ 004a9e10 f   clsMD5.OBJ
+ 0001:000a8ea0       ?LongToUnsigned@MD5@@AAGXXZ 004a9ea0 f   clsMD5.OBJ
+ 0001:000a8f00       ?zSubclass_Proc@isButton@@AAGXXZ 004a9f00 f   isbutton.OBJ
+ 0001:000a9050       ?Subclass_AddMsg@isButton@@AAGXXZ 004aa050 f   isbutton.OBJ
+ 0001:000a9160       ?Subclass_DelMsg@isButton@@AAGXXZ 004aa160 f   isbutton.OBJ
+ 0001:000a9270       ?Subclass_InIDE@isButton@@AAGXXZ 004aa270 f   isbutton.OBJ
+ 0001:000a9280       ?Subclass_Start@isButton@@AAGXXZ 004aa280 f   isbutton.OBJ
+ 0001:000a96f0       ?Subclass_StopAll@isButton@@AAGXXZ 004aa6f0 f   isbutton.OBJ
+ 0001:000a97e0       ?Subclass_Stop@isButton@@AAGXXZ 004aa7e0 f   isbutton.OBJ
+ 0001:000a9910       ?zAddMsg@isButton@@AAGXXZ  004aa910 f   isbutton.OBJ
+ 0001:000a9b80       ?zAddrFunc@isButton@@AAGXXZ 004aab80 f   isbutton.OBJ
+ 0001:000a9c80       ?zDelMsg@isButton@@AAGXXZ  004aac80 f   isbutton.OBJ
+ 0001:000a9d70       ?zIdx@isButton@@AAGXXZ     004aad70 f   isbutton.OBJ
+ 0001:000a9e80       ?zPatchRel@isButton@@AAGXXZ 004aae80 f   isbutton.OBJ
+ 0001:000a9ec0       ?zPatchVal@isButton@@AAGXXZ 004aaec0 f   isbutton.OBJ
+ 0001:000a9ef0       ?zSetTrue@isButton@@AAGXXZ 004aaef0 f   isbutton.OBJ
+ 0001:000a9f10       ?APILine@isButton@@AAGXXZ  004aaf10 f   isbutton.OBJ
+ 0001:000aa060       ?APILineEx@isButton@@AAGXXZ 004ab060 f   isbutton.OBJ
+ 0001:000aa100       ?APIFillRect@isButton@@AAGXXZ 004ab100 f   isbutton.OBJ
+ 0001:000aa140       ?APIFillRectByCoords@isButton@@AAGXXZ 004ab140 f   isbutton.OBJ
+ 0001:000aa1d0       ?APIRectangle@isButton@@AAGXXZ 004ab1d0 f   isbutton.OBJ
+ 0001:000aa2f0       ?DrawCtlEdgeByRect@isButton@@AAGXXZ 004ab2f0 f   isbutton.OBJ
+ 0001:000aa320       ?DrawCtlEdge@isButton@@AAGXXZ 004ab320 f   isbutton.OBJ
+ 0001:000aa3b0       ?BlendColors@isButton@@AAGXXZ 004ab3b0 f   isbutton.OBJ
+ 0001:000aa580       ?TranslateColor@isButton@@AAGXXZ 004ab580 f   isbutton.OBJ
+ 0001:000aa5d0       ?MSOXPShiftColor@isButton@@AAGXXZ 004ab5d0 f   isbutton.OBJ
+ 0001:000aa700       ?msSoftColor@isButton@@AAGXXZ 004ab700 f   isbutton.OBJ
+ 0001:000aa700       ?SoftColor@isButton@@AAGXXZ 004ab700 f   isbutton.OBJ
+ 0001:000aa830       ?OffsetColor@isButton@@AAGXXZ 004ab830 f   isbutton.OBJ
+ 0001:000aa8e0       ?DrawCaption@isButton@@AAGXXZ 004ab8e0 f   isbutton.OBJ
+ 0001:000aaa90       ?fPaintPicture@isButton@@AAGXXZ 004aba90 f   isbutton.OBJ
+ 0001:000aac50       ?fDrawPicture@isButton@@AAGXXZ 004abc50 f   isbutton.OBJ
+ 0001:000ab0c0       ?DrawVGradient@isButton@@AAGXXZ 004ac0c0 f   isbutton.OBJ
+ 0001:000ab390       ?DrawVGradientEx@isButton@@AAGXXZ 004ac390 f   isbutton.OBJ
+ 0001:000ab670       ?DrawHGradient@isButton@@AAGXXZ 004ac670 f   isbutton.OBJ
+ 0001:000ab960       ?DrawJavaBorder@isButton@@AAGXXZ 004ac960 f   isbutton.OBJ
+ 0001:000abc30       ?DrawTheme@isButton@@AAGXXZ 004acc30 f   isbutton.OBJ
+ 0001:000abde0       ?CreateWinXPRegion@isButton@@AAGXXZ 004acde0 f   isbutton.OBJ
+ 0001:000abfb0       ?CreateGalaxyRegion@isButton@@AAGXXZ 004acfb0 f   isbutton.OBJ
+ 0001:000ac180       ?CreateMacOSXButtonRegion@isButton@@AAGXXZ 004ad180 f   isbutton.OBJ
+ 0001:000ac250       ?About@isButton@@AAGXXZ    004ad250 f   isbutton.OBJ
+ 0001:000ac590       ?DrawWinXPButton@isButton@@AAGXXZ 004ad590 f   isbutton.OBJ
+ 0001:000ad690       ?DrawCustomWinXPButton@isButton@@AAGXXZ 004ae690 f   isbutton.OBJ
+ 0001:000af490       ?DrawMacOSXButton@isButton@@AAGXXZ 004b0490 f   isbutton.OBJ
+ 0001:000af4e0       ?DrawMacOSXButtonNormal@isButton@@AAGXXZ 004b04e0 f   isbutton.OBJ
+ 0001:000b5620       ?DrawMacOSXButtonHot@isButton@@AAGXXZ 004b6620 f   isbutton.OBJ
+ 0001:000bbc50       ?DrawMacOSXButtonPressed@isButton@@AAGXXZ 004bcc50 f   isbutton.OBJ
+ 0001:000c2280       ?DrawPlastikButton@isButton@@AAGXXZ 004c3280 f   isbutton.OBJ
+ 0001:000c65a0       ?DrawGalaxyButton@isButton@@AAGXXZ 004c75a0 f   isbutton.OBJ
+ 0001:000c7aa0       ?DrawKeramikButton@isButton@@AAGXXZ 004c8aa0 f   isbutton.OBJ
+ 0001:000ca2c0       ?CreateToolTip@isButton@@AAGXXZ 004cb2c0 f   isbutton.OBJ
+ 0001:000ca740       ?m_About_Click@isButton@@AAGXXZ 004cb740 f   isbutton.OBJ
+ 0001:000ca800       ?m_About_MouseDown@isButton@@AAGXXZ 004cb800 f   isbutton.OBJ
+ 0001:000cb210       ?m_About_Paint@isButton@@AAGXXZ 004cc210 f   isbutton.OBJ
+ 0001:000cbf00       ?UserControl_Click@isButton@@AAGXXZ 004ccf00 f   isbutton.OBJ
+ 0001:000cbfc0       ?UserControl_DblClick@isButton@@AAGXXZ 004ccfc0 f   isbutton.OBJ
+ 0001:000cc080       ?UserControl_ExitFocus@isButton@@AAGXXZ 004cd080 f   isbutton.OBJ
+ 0001:000cc110       ?UserControl_GotFocus@isButton@@AAGXXZ 004cd110 f   isbutton.OBJ
+ 0001:000cc1a0       ?UserControl_Hide@isButton@@AAGXXZ 004cd1a0 f   isbutton.OBJ
+ 0001:000cc290       ?UserControl_InitProperties@isButton@@AAGXXZ 004cd290 f   isbutton.OBJ
+ 0001:000cc5a0       ?UserControl_KeyDown@isButton@@AAGXXZ 004cd5a0 f   isbutton.OBJ
+ 0001:000cc670       ?UserControl_KeyPress@isButton@@AAGXXZ 004cd670 f   isbutton.OBJ
+ 0001:000cc710       ?UserControl_KeyUp@isButton@@AAGXXZ 004cd710 f   isbutton.OBJ
+ 0001:000cc7e0       ?UserControl_LostFocus@isButton@@AAGXXZ 004cd7e0 f   isbutton.OBJ
+ 0001:000cc870       ?UserControl_MouseDown@isButton@@AAGXXZ 004cd870 f   isbutton.OBJ
+ 0001:000cc910       ?UserControl_MouseMove@isButton@@AAGXXZ 004cd910 f   isbutton.OBJ
+ 0001:000cc980       ?Refresh@isButton@@AAGXXZ  004cd980 f   isbutton.OBJ
+ 0001:000ceb00       ?BuildRegion@isButton@@AAGXXZ 004cfb00 f   isbutton.OBJ
+ 0001:000cec70       ?UserControl_MouseUp@isButton@@AAGXXZ 004cfc70 f   isbutton.OBJ
+ 0001:000ced30       ?UserControl_Paint@isButton@@AAGXXZ 004cfd30 f   isbutton.OBJ
+ 0001:000cedc0       ?UserControl_Show@isButton@@AAGXXZ 004cfdc0 f   isbutton.OBJ
+ 0001:000cef60       ?UserControl_Resize@isButton@@AAGXXZ 004cff60 f   isbutton.OBJ
+ 0001:000cf230       ?UserControl_ReadProperties@isButton@@AAGXXZ 004d0230 f   isbutton.OBJ
+ 0001:000cffa0       ?UserControl_Terminate@isButton@@AAGXXZ 004d0fa0 f   isbutton.OBJ
+ 0001:000d0020       ?UserControl_WriteProperties@isButton@@AAGXXZ 004d1020 f   isbutton.OBJ
+ 0001:000d0ba0       ?IsFunctionExported@isButton@@AAGXXZ 004d1ba0 f   isbutton.OBJ
+ 0001:000d0d00       ?TrackMouseLeave@isButton@@AAGXXZ 004d1d00 f   isbutton.OBJ
+ 0001:000d0d80       ?Version@isButton@@AAGXXZ  004d1d80 f   isbutton.OBJ
+ 0001:000d0e10       ?Style__Let@isButton@@AAGXXZ 004d1e10 f   isbutton.OBJ
+ 0001:000d0ef0       ?Style__Get@isButton@@AAGXXZ 004d1ef0 f   isbutton.OBJ
+ 0001:000d0f60       ?Caption__Let@isButton@@AAGXXZ 004d1f60 f   isbutton.OBJ
+ 0001:000d1060       ?Caption__Get@isButton@@AAGXXZ 004d2060 f   isbutton.OBJ
+ 0001:000d10f0       ?Icon__Set@isButton@@AAGXXZ 004d20f0 f   isbutton.OBJ
+ 0001:000d11e0       ?Icon__Get@isButton@@AAGXXZ 004d21e0 f   isbutton.OBJ
+ 0001:000d1270       ?IconAlign__Let@isButton@@AAGXXZ 004d2270 f   isbutton.OBJ
+ 0001:000d1350       ?IconAlign__Get@isButton@@AAGXXZ 004d2350 f   isbutton.OBJ
+ 0001:000d13c0       ?IconSize__Let@isButton@@AAGXXZ 004d23c0 f   isbutton.OBJ
+ 0001:000d14b0       ?IconSize__Get@isButton@@AAGXXZ 004d24b0 f   isbutton.OBJ
+ 0001:000d1530       ?CaptionAlign__Let@isButton@@AAGXXZ 004d2530 f   isbutton.OBJ
+ 0001:000d1610       ?CaptionAlign__Get@isButton@@AAGXXZ 004d2610 f   isbutton.OBJ
+ 0001:000d1680       ?NonThemeStyle__Let@isButton@@AAGXXZ 004d2680 f   isbutton.OBJ
+ 0001:000d1760       ?NonThemeStyle__Get@isButton@@AAGXXZ 004d2760 f   isbutton.OBJ
+ 0001:000d17d0       ?Enabled__Let@isButton@@AAGXXZ 004d27d0 f   isbutton.OBJ
+ 0001:000d18d0       ?Enabled__Get@isButton@@AAGXXZ 004d28d0 f   isbutton.OBJ
+ 0001:000d1960       ?ShowFocus__Let@isButton@@AAGXXZ 004d2960 f   isbutton.OBJ
+ 0001:000d1a30       ?ShowFocus__Get@isButton@@AAGXXZ 004d2a30 f   isbutton.OBJ
+ 0001:000d1aa0       ?UseCustomColors__Let@isButton@@AAGXXZ 004d2aa0 f   isbutton.OBJ
+ 0001:000d1b70       ?UseCustomColors__Get@isButton@@AAGXXZ 004d2b70 f   isbutton.OBJ
+ 0001:000d1be0       ?BackColor__Let@isButton@@AAGXXZ 004d2be0 f   isbutton.OBJ
+ 0001:000d1cb0       ?BackColor__Get@isButton@@AAGXXZ 004d2cb0 f   isbutton.OBJ
+ 0001:000d1d20       ?HighlightColor__Let@isButton@@AAGXXZ 004d2d20 f   isbutton.OBJ
+ 0001:000d1df0       ?HighlightColor__Get@isButton@@AAGXXZ 004d2df0 f   isbutton.OBJ
+ 0001:000d1e60       ?FontColor__Let@isButton@@AAGXXZ 004d2e60 f   isbutton.OBJ
+ 0001:000d1f30       ?FontColor__Get@isButton@@AAGXXZ 004d2f30 f   isbutton.OBJ
+ 0001:000d1fa0       ?FontHighlightColor__Let@isButton@@AAGXXZ 004d2fa0 f   isbutton.OBJ
+ 0001:000d2070       ?FontHighlightColor__Get@isButton@@AAGXXZ 004d3070 f   isbutton.OBJ
+ 0001:000d20e0       ?ToolTip__Let@isButton@@AAGXXZ 004d30e0 f   isbutton.OBJ
+ 0001:000d21b0       ?ToolTip__Get@isButton@@AAGXXZ 004d31b0 f   isbutton.OBJ
+ 0001:000d2240       ?ToolTipTitle__Let@isButton@@AAGXXZ 004d3240 f   isbutton.OBJ
+ 0001:000d2310       ?ToolTipTitle__Get@isButton@@AAGXXZ 004d3310 f   isbutton.OBJ
+ 0001:000d23a0       ?ToolTipIcon__Let@isButton@@AAGXXZ 004d33a0 f   isbutton.OBJ
+ 0001:000d2470       ?ToolTipIcon__Get@isButton@@AAGXXZ 004d3470 f   isbutton.OBJ
+ 0001:000d24e0       ?ToolTipType__Let@isButton@@AAGXXZ 004d34e0 f   isbutton.OBJ
+ 0001:000d25b0       ?ToolTipType__Get@isButton@@AAGXXZ 004d35b0 f   isbutton.OBJ
+ 0001:000d2620       ?ToolTipBackColor__Let@isButton@@AAGXXZ 004d3620 f   isbutton.OBJ
+ 0001:000d26f0       ?ToolTipBackColor__Get@isButton@@AAGXXZ 004d36f0 f   isbutton.OBJ
+ 0001:000d2780       ?ToolTipForeColor__Let@isButton@@AAGXXZ 004d3780 f   isbutton.OBJ
+ 0001:000d2850       ?ToolTipForeColor__Get@isButton@@AAGXXZ 004d3850 f   isbutton.OBJ
+ 0001:000d28c0       ?Font__Set@isButton@@AAGXXZ 004d38c0 f   isbutton.OBJ
+ 0001:000d29f0       ?Font__Get@isButton@@AAGXXZ 004d39f0 f   isbutton.OBJ
+ 0001:000d2ac0       ?ButtonType__Let@isButton@@AAGXXZ 004d3ac0 f   isbutton.OBJ
+ 0001:000d2b90       ?ButtonType__Get@isButton@@AAGXXZ 004d3b90 f   isbutton.OBJ
+ 0001:000d2c00       ?Value__Let@isButton@@AAGXXZ 004d3c00 f   isbutton.OBJ
+ 0001:000d2cd0       ?Value__Get@isButton@@AAGXXZ 004d3cd0 f   isbutton.OBJ
+ 0001:000d2d40       ?OpenLink@isButton@@AAGXXZ 004d3d40 f   isbutton.OBJ
+ 0001:000d2ea0       ?DisplayHand__Let@CandyButton@@AAGXXZ 004d3ea0 f   candybuttons.OBJ
+ 0001:000d2f10       ?DisplayHand__Get@CandyButton@@AAGXXZ 004d3f10 f   candybuttons.OBJ
+ 0001:000d2f80       ?Enabled__Let@CandyButton@@AAGXXZ 004d3f80 f   candybuttons.OBJ
+ 0001:000d3050       ?Enabled__Get@CandyButton@@AAGXXZ 004d4050 f   candybuttons.OBJ
+ 0001:000d3100       ?ColorScheme__Let@CandyButton@@AAGXXZ 004d4100 f   candybuttons.OBJ
+ 0001:000d35b0       ?ColorScheme__Get@CandyButton@@AAGXXZ 004d45b0 f   candybuttons.OBJ
+ 0001:000d3620       ?BorderBrightness__Let@CandyButton@@AAGXXZ 004d4620 f   candybuttons.OBJ
+ 0001:000d3700       ?BorderBrightness__Get@CandyButton@@AAGXXZ 004d4700 f   candybuttons.OBJ
+ 0001:000d3770       ?IconHighLite__Get@CandyButton@@AAGXXZ 004d4770 f   candybuttons.OBJ
+ 0001:000d37e0       ?IconHighLite__Let@CandyButton@@AAGXXZ 004d47e0 f   candybuttons.OBJ
+ 0001:000d3890       ?IconHighLiteColor__Get@CandyButton@@AAGXXZ 004d4890 f   candybuttons.OBJ
+ 0001:000d3900       ?IconHighLiteColor__Let@CandyButton@@AAGXXZ 004d4900 f   candybuttons.OBJ
+ 0001:000d39b0       ?CaptionHighLite__Get@CandyButton@@AAGXXZ 004d49b0 f   candybuttons.OBJ
+ 0001:000d3a20       ?CaptionHighLite__Let@CandyButton@@AAGXXZ 004d4a20 f   candybuttons.OBJ
+ 0001:000d3ad0       ?CaptionHighLiteColor__Get@CandyButton@@AAGXXZ 004d4ad0 f   candybuttons.OBJ
+ 0001:000d3b40       ?CaptionHighLiteColor__Let@CandyButton@@AAGXXZ 004d4b40 f   candybuttons.OBJ
+ 0001:000d3bf0       ?ColorBright__Let@CandyButton@@AAGXXZ 004d4bf0 f   candybuttons.OBJ
+ 0001:000d3d00       ?ColorBright__Get@CandyButton@@AAGXXZ 004d4d00 f   candybuttons.OBJ
+ 0001:000d3d70       ?ColorButtonDown__Let@CandyButton@@AAGXXZ 004d4d70 f   candybuttons.OBJ
+ 0001:000d3e80       ?ColorButtonDown__Get@CandyButton@@AAGXXZ 004d4e80 f   candybuttons.OBJ
+ 0001:000d3ef0       ?ColorButtonUp__Let@CandyButton@@AAGXXZ 004d4ef0 f   candybuttons.OBJ
+ 0001:000d4000       ?ColorButtonUp__Get@CandyButton@@AAGXXZ 004d5000 f   candybuttons.OBJ
+ 0001:000d4070       ?ColorButtonHover__Let@CandyButton@@AAGXXZ 004d5070 f   candybuttons.OBJ
+ 0001:000d4180       ?ColorButtonHover__Get@CandyButton@@AAGXXZ 004d5180 f   candybuttons.OBJ
+ 0001:000d41f0       ?ForeColor__Let@CandyButton@@AAGXXZ 004d51f0 f   candybuttons.OBJ
+ 0001:000d42d0       ?ForeColor__Get@CandyButton@@AAGXXZ 004d52d0 f   candybuttons.OBJ
+ 0001:000d4340       ?Picture__Set@CandyButton@@AAGXXZ 004d5340 f   candybuttons.OBJ
+ 0001:000d4400       ?Picture__Get@CandyButton@@AAGXXZ 004d5400 f   candybuttons.OBJ
+ 0001:000d4490       ?Checked__Let@CandyButton@@AAGXXZ 004d5490 f   candybuttons.OBJ
+ 0001:000d4580       ?Checked__Get@CandyButton@@AAGXXZ 004d5580 f   candybuttons.OBJ
+ 0001:000d45f0       ?Style__Let@CandyButton@@AAGXXZ 004d55f0 f   candybuttons.OBJ
+ 0001:000d46c0       ?Style__Get@CandyButton@@AAGXXZ 004d56c0 f   candybuttons.OBJ
+ 0001:000d4730       ?PictureAlignment__Let@CandyButton@@AAGXXZ 004d5730 f   candybuttons.OBJ
+ 0001:000d47f0       ?PictureAlignment__Get@CandyButton@@AAGXXZ 004d57f0 f   candybuttons.OBJ
+ 0001:000d4860       ?Caption__Let@CandyButton@@AAGXXZ 004d5860 f   candybuttons.OBJ
+ 0001:000d4940       ?Caption__Get@CandyButton@@AAGXXZ 004d5940 f   candybuttons.OBJ
+ 0001:000d49d0       ?Font__Set@CandyButton@@AAGXXZ 004d59d0 f   candybuttons.OBJ
+ 0001:000d4af0       ?Font__Get@CandyButton@@AAGXXZ 004d5af0 f   candybuttons.OBJ
+ 0001:000d4bc0       ?UserControl_Initialize@CandyButton@@AAGXXZ 004d5bc0 f   candybuttons.OBJ
+ 0001:000d4c50       ?UserControl_InitProperties@CandyButton@@AAGXXZ 004d5c50 f   candybuttons.OBJ
+ 0001:000d4f80       ?UserControl_KeyDown@CandyButton@@AAGXXZ 004d5f80 f   candybuttons.OBJ
+ 0001:000d5050       ?UserControl_KeyUp@CandyButton@@AAGXXZ 004d6050 f   candybuttons.OBJ
+ 0001:000d5120       ?UserControl_Click@CandyButton@@AAGXXZ 004d6120 f   candybuttons.OBJ
+ 0001:000d51a0       ?UserControl_MouseDown@CandyButton@@AAGXXZ 004d61a0 f   candybuttons.OBJ
+ 0001:000d52c0       ?UserControl_MouseMove@CandyButton@@AAGXXZ 004d62c0 f   candybuttons.OBJ
+ 0001:000d54b0       ?UserControl_MouseUp@CandyButton@@AAGXXZ 004d64b0 f   candybuttons.OBJ
+ 0001:000d5600       ?UserControl_DblClick@CandyButton@@AAGXXZ 004d6600 f   candybuttons.OBJ
+ 0001:000d56a0       ?UserControl_EnterFocus@CandyButton@@AAGXXZ 004d66a0 f   candybuttons.OBJ
+ 0001:000d5740       ?UserControl_ExitFocus@CandyButton@@AAGXXZ 004d6740 f   candybuttons.OBJ
+ 0001:000d57d0       ?UserControl_WriteProperties@CandyButton@@AAGXXZ 004d67d0 f   candybuttons.OBJ
+ 0001:000d6220       ?UserControl_Resize@CandyButton@@AAGXXZ 004d7220 f   candybuttons.OBJ
+ 0001:000d62a0       ?UserControl_Show@CandyButton@@AAGXXZ 004d72a0 f   candybuttons.OBJ
+ 0001:000d6320       ?DrawButton@CandyButton@@AAGXXZ 004d7320 f   candybuttons.OBJ
+ 0001:000d6590       ?DrawIconWCaption@CandyButton@@AAGXXZ 004d7590 f   candybuttons.OBJ
+ 0001:000d71c0       ?DrawXPToolbarButton@CandyButton@@AAGXXZ 004d81c0 f   candybuttons.OBJ
+ 0001:000da4d0       ?DrawXPButton@CandyButton@@AAGXXZ 004db4d0 f   candybuttons.OBJ
+ 0001:000dd230       ?DrawCrystalButton@CandyButton@@AAGXXZ 004de230 f   candybuttons.OBJ
+ 0001:000ddb70       ?DrawCrystal@CandyButton@@AAGXXZ 004deb70 f   candybuttons.OBJ
+ 0001:000de090       ?DrawElipse@CandyButton@@AAGXXZ 004df090 f   candybuttons.OBJ
+ 0001:000de4e0       ?DrawPlasticButton@CandyButton@@AAGXXZ 004df4e0 f   candybuttons.OBJ
+ 0001:000de7c0       ?DrawPlastic@CandyButton@@AAGXXZ 004df7c0 f   candybuttons.OBJ
+ 0001:000dec90       ?Init_Style@CandyButton@@AAGXXZ 004dfc90 f   candybuttons.OBJ
+ 0001:000df100       ?CreateRoundedRegion@CandyButton@@AAGXXZ 004e0100 f   candybuttons.OBJ
+ 0001:000df330       ?ExcludePixelsFromRegion@CandyButton@@AAGXXZ 004e0330 f   candybuttons.OBJ
+ 0001:000df380       ?IsInRoundRect@CandyButton@@AAGXXZ 004e0380 f   candybuttons.OBJ
+ 0001:000df5d0       ?IsInCircle@CandyButton@@AAGXXZ 004e05d0 f   candybuttons.OBJ
+ 0001:000df670       ?BlendColors@CandyButton@@AAGXXZ 004e0670 f   candybuttons.OBJ
+ 0001:000df8a0       ?SetBound@CandyButton@@AAGXXZ 004e08a0 f   candybuttons.OBJ
+ 0001:000df8e0       ?GetRGB@CandyButton@@AAGXXZ 004e08e0 f   candybuttons.OBJ
+ 0001:000df980       ?HiWord@CandyButton@@AAGXXZ 004e0980 f   candybuttons.OBJ
+ 0001:000df9b0       ?LoWord@CandyButton@@AAGXXZ 004e09b0 f   candybuttons.OBJ
+ 0001:000df9f0       ?UserControl_ReadProperties@CandyButton@@AAGXXZ 004e09f0 f   candybuttons.OBJ
+ 0001:000e0720       ?UserControl_Terminate@CandyButton@@AAGXXZ 004e1720 f   candybuttons.OBJ
+ 0001:000e07b0       ?IsFunctionExported@CandyButton@@AAGXXZ 004e17b0 f   candybuttons.OBJ
+ 0001:000e0910       ?TrackMouseLeave@CandyButton@@AAGXXZ 004e1910 f   candybuttons.OBJ
+ 0001:000e0980       ?sc_Subclass@CandyButton@@AAGXXZ 004e1980 f   candybuttons.OBJ
+ 0001:000e11f0       ?sc_Terminate@CandyButton@@AAGXXZ 004e21f0 f   candybuttons.OBJ
+ 0001:000e13a0       ?sc_UnSubclass@CandyButton@@AAGXXZ 004e23a0 f   candybuttons.OBJ
+ 0001:000e14e0       ?sc_AddMsg@CandyButton@@AAGXXZ 004e24e0 f   candybuttons.OBJ
+ 0001:000e1550       ?sc_DelMsg@CandyButton@@AAGXXZ 004e2550 f   candybuttons.OBJ
+ 0001:000e15c0       ?sc_CallOrigWndProc@CandyButton@@AAGXXZ 004e25c0 f   candybuttons.OBJ
+ 0001:000e1650       ?sc_lParamUser__Get@CandyButton@@AAGXXZ 004e2650 f   candybuttons.OBJ
+ 0001:000e16c0       ?sc_lParamUser__Let@CandyButton@@AAGXXZ 004e26c0 f   candybuttons.OBJ
+ 0001:000e1710       ?zAddMsg@CandyButton@@AAGXXZ 004e2710 f   candybuttons.OBJ
+ 0001:000e1830       ?zDelMsg@CandyButton@@AAGXXZ 004e2830 f   candybuttons.OBJ
+ 0001:000e19c0       ?zError@CandyButton@@AAGXXZ 004e29c0 f   candybuttons.OBJ
+ 0001:000e1d00       ?zFnAddr@CandyButton@@AAGXXZ 004e2d00 f   candybuttons.OBJ
+ 0001:000e1e00       ?zMap_hWnd@CandyButton@@AAGXXZ 004e2e00 f   candybuttons.OBJ
+ 0001:000e1f60       ?zAddressOf@CandyButton@@AAGXXZ 004e2f60 f   candybuttons.OBJ
+ 0001:000e2150       ?zProbe@CandyButton@@AAGXXZ 004e3150 f   candybuttons.OBJ
+ 0001:000e2230       ?zData__Get@CandyButton@@AAGXXZ 004e3230 f   candybuttons.OBJ
+ 0001:000e2280       ?zData__Let@CandyButton@@AAGXXZ 004e3280 f   candybuttons.OBJ
+ 0001:000e22c0       ?zWndProc1@CandyButton@@AAGXXZ 004e32c0 f   candybuttons.OBJ
+ 0001:000e24c0       ?CandyButton1_Click@FormSetting@@AAGXXZ 004e34c0 f   FormSetting.OBJ
+ 0001:000e25f0       ?CandyButton2_Click@FormSetting@@AAGXXZ 004e35f0 f   FormSetting.OBJ
+ 0001:000e2720       ?CandyButton3_Click@FormSetting@@AAGXXZ 004e3720 f   FormSetting.OBJ
+ 0001:000e2910       ?CandyButton4_Click@FormSetting@@AAGXXZ 004e3910 f   FormSetting.OBJ
+ 0001:000e2da0       ?Lights__Get@FormChange@@AAGXXZ 004e3da0 f   FormChange.OBJ
+ 0001:000e2ee0       ?Lights__Let@FormChange@@AAGXXZ 004e3ee0 f   FormChange.OBJ
+ 0001:000e30e0       ?Text11_GotFocus@FormChange@@AAGXXZ 004e40e0 f   FormChange.OBJ
+ 0001:000e3310       ?Command1_Click@FormChange@@AAGXXZ 004e4310 f   FormChange.OBJ
+ 0001:000e3be0       ?Form_Load@FormChange@@AAGXXZ 004e4be0 f   FormChange.OBJ
+ 0001:000e3c90       ?Text_GotFocus@FormChange@@AAGXXZ 004e4c90 f   FormChange.OBJ
+ 0001:000e3ee0       ?Text_LostFocus@FormChange@@AAGXXZ 004e4ee0 f   FormChange.OBJ
+ 0001:000e3fe0       ?Timer1_Timer@FormChange@@AAGXXZ 004e4fe0 f   FormChange.OBJ
+ 0001:000e41b0       ?Text1_GotFocus@FormChange@@AAGXXZ 004e51b0 f   FormChange.OBJ
+ 0001:000e4400       ?Text1_LostFocus@FormChange@@AAGXXZ 004e5400 f   FormChange.OBJ
+ 0001:000e4500       ?Text1_KeyPress@FormChange@@AAGXXZ 004e5500 f   FormChange.OBJ
+ 0001:000e4590       ?Text_KeyPress@FormChange@@AAGXXZ 004e5590 f   FormChange.OBJ
+ 0001:000e4620       ?Text_KeyUp@FormChange@@AAGXXZ 004e5620 f   FormChange.OBJ
+ 0001:000e4740       ?StrChk@FormChange@@AAGXXZ 004e5740 f   FormChange.OBJ
+ 0001:000e4fb0       ?Command1_Click@FormConfirm@@AAGXXZ 004e5fb0 f   FormConfirm.OBJ
+ 0001:000e5720       ?Form_Load@FormConfirm@@AAGXXZ 004e6720 f   FormConfirm.OBJ
+ 0001:000e57d0       ?Text1_KeyPress@FormConfirm@@AAGXXZ 004e67d0 f   FormConfirm.OBJ
+ 0001:000e5860       ?Command1_Click@FormConfirm2@@AAGXXZ 004e6860 f   FormConfirm2.OBJ
+ 0001:000e5fd0       ?Form_Load@FormConfirm2@@AAGXXZ 004e6fd0 f   FormConfirm2.OBJ
+ 0001:000e6080       ?Text1_KeyPress@FormConfirm2@@AAGXXZ 004e7080 f   FormConfirm2.OBJ
+ 0001:000e6110       ?CandyButton1_Click@FormKidsSetting@@AAGXXZ 004e7110 f   FormKidsSetting.OBJ
+ 0001:000e6730       ?CandyButton2_Click@FormKidsSetting@@AAGXXZ 004e7730 f   FormKidsSetting.OBJ
+ 0001:000e6900       ?CandyButton3_Click@FormKidsSetting@@AAGXXZ 004e7900 f   FormKidsSetting.OBJ
+ 0001:000e6a50       ?CandyButton4_Click@FormKidsSetting@@AAGXXZ 004e7a50 f   FormKidsSetting.OBJ
+ 0001:000e6ba0       ?Check1_Click@FormKidsSetting@@AAGXXZ 004e7ba0 f   FormKidsSetting.OBJ
+ 0001:000e6f10       ?Check2_Click@FormKidsSetting@@AAGXXZ 004e7f10 f   FormKidsSetting.OBJ
+ 0001:000e7340       ?Form_Load@FormKidsSetting@@AAGXXZ 004e8340 f   FormKidsSetting.OBJ
+ 0001:000e79d0       ?Timer1_Timer@FormKidsSetting@@AAGXXZ 004e89d0 f   FormKidsSetting.OBJ
+ 0001:000e7c40       ?cmdRefresh_Click@Formps@@AAGXXZ 004e8c40 f   Formps.OBJ
+ 0001:000e8e60       ?Command1_Click@Formps@@AAGXXZ 004e9e60 f   Formps.OBJ
+ 0001:000e9d20       ?Command2_Click@Formps@@AAGXXZ 004ead20 f   Formps.OBJ
+ 0001:000ea160       ?Form_Load@Formps@@AAGXXZ  004eb160 f   Formps.OBJ
+ 0001:000ea430       ?lvProcess_ItemClick@Formps@@AAGXXZ 004eb430 f   Formps.OBJ
+ 0001:000ea540       ?Timer1_Timer@Formps@@AAGXXZ 004eb540 f   Formps.OBJ
+ 0001:000ea850       ?Form_Load@FormKidsTry@@AAGXXZ 004eb850 f   FormKidsTry.OBJ
+ 0001:000eaa50       ?Form_Unload@FormKidsTry@@AAGXXZ 004eba50 f   FormKidsTry.OBJ
+ 0001:000eab20       ?Timer1_Timer@FormKidsTry@@AAGXXZ 004ebb20 f   FormKidsTry.OBJ
+ 0001:000eac40       ?Timer2_Timer@FormKidsTry@@AAGXXZ 004ebc40 f   FormKidsTry.OBJ
+ 0001:000eadc0       ?Timer3_Timer@FormKidsTry@@AAGXXZ 004ebdc0 f   FormKidsTry.OBJ
+ 0001:000eaf80       ?Form_Load@FormKidsLoad@@AAGXXZ 004ebf80 f   FormKidsLoad.OBJ
+ 0001:000ebc90       ?Form_Unload@FormKidsLoad@@AAGXXZ 004ecc90 f   FormKidsLoad.OBJ
+ 0001:000ebd80       ?isButton1_Click@FormKidsLoad@@AAGXXZ 004ecd80 f   FormKidsLoad.OBJ
+ 0001:000ebe40       ?isButton2_Click@FormKidsLoad@@AAGXXZ 004ece40 f   FormKidsLoad.OBJ
+ 0001:000ec7e0       ?mabout_Click@FormKidsLoad@@AAGXXZ 004ed7e0 f   FormKidsLoad.OBJ
+ 0001:000ec8d0       ?P_MouseMove@FormKidsLoad@@AAGXXZ 004ed8d0 f   FormKidsLoad.OBJ
+ 0001:000ecd40       ?Timer1_Timer@FormKidsLoad@@AAGXXZ 004edd40 f   FormKidsLoad.OBJ
+ 0001:000ed010       ?Timer2_Timer@FormKidsLoad@@AAGXXZ 004ee010 f   FormKidsLoad.OBJ
+ 0001:000ee3a0       ?Command1_Click@FormConfirm3@@AAGXXZ 004ef3a0 f   FormConfirm3.OBJ
+ 0001:000eec50       ?Form_Load@FormConfirm3@@AAGXXZ 004efc50 f   FormConfirm3.OBJ
+ 0001:000eed00       ?Text1_KeyPress@FormConfirm3@@AAGXXZ 004efd00 f   FormConfirm3.OBJ
+ 0001:000eed90       ?ProtectProcess@Module1@@AAGXXZ 004efd90 f   블루스크린.OBJ
+ 0001:000eef00       ?RestoreProcess@Module1@@AAGXXZ 004eff00 f   블루스크린.OBJ
+ 0001:000eef90       ?SafeSEH@Module1@@AAGXXZ   004eff90 f   블루스크린.OBJ
+ 0001:000ef020       ?GetProcess@Module2@@AAGXXZ 004f0020 f   프로세스종료.OBJ
+ 0001:000ef490       ?ProcessKill@Module2@@AAGXXZ 004f0490 f   프로세스종료.OBJ
+ 0001:000ef4f0       ?Form_Load@FormLock@@AAGXXZ 004f04f0 f   FormLock.OBJ
+ 0001:000ef750       ?isButton1_Click@FormLock@@AAGXXZ 004f0750 f   FormLock.OBJ
+ 0001:000f0080       ?isButton2_Click@FormLock@@AAGXXZ 004f1080 f   FormLock.OBJ
+ 0001:000f02c0       ?isButton3_Click@FormLock@@AAGXXZ 004f12c0 f   FormLock.OBJ
+ 0001:000f0500       ?Timer1_Timer@FormLock@@AAGXXZ 004f1500 f   FormLock.OBJ
+ 0001:000f0af0       ?Text1_KeyPress@FormLock@@AAGXXZ 004f1af0 f   FormLock.OBJ
+ 0001:000f0b80       ?Form_Unload@FormLock@@AAGXXZ 004f1b80 f   FormLock.OBJ
+ 0001:000f0cf0       ?Timer2_Timer@FormLock@@AAGXXZ 004f1cf0 f   FormLock.OBJ
+ 0001:000f0de0       ?Timer3_Timer@FormLock@@AAGXXZ 004f1de0 f   FormLock.OBJ
+ 0001:000f0fb0       ?AlwaysTop@Top@@AAGXXZ     004f1fb0 f   Top.OBJ
+ 0001:000f10d0       VB@ETXT                    004f20d0     test.OBJ
+ 0002:00000000       __adjust_fdiv              004f3000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     004f3008     test.OBJ
+ 0002:00000010       ___vba@04336CB8            004f3010     test.OBJ
+ 0002:00000024       _ini                       004f3024     test.OBJ
+ 0002:00000034       ___vba@04336CD0            004f3034     test.OBJ
+ 0002:00000048       ___vba@04336DD8            004f3048     test.OBJ
+ 0002:0000005c       ___vba@04336DF0            004f305c     test.OBJ
+ 0002:00000070       ___vba@04336CE8            004f3070     test.OBJ
+ 0002:00000084       ___vba@04336D48            004f3084     test.OBJ
+ 0002:00000098       ___vba@04336D00            004f3098     test.OBJ
+ 0002:000000ac       ___vba@04336D18            004f30ac     test.OBJ
+ 0002:000000c0       ___vba@04336D30            004f30c0     test.OBJ
+ 0002:000000d4       ___vba@04336D78            004f30d4     test.OBJ
+ 0002:000000e8       ___vba@04336D90            004f30e8     test.OBJ
+ 0002:000000fc       ___vba@04336DC0            004f30fc     test.OBJ
+ 0002:00000110       ___vba@04336D60            004f3110     test.OBJ
+ 0002:00000124       ___vba@04336DA8            004f3124     test.OBJ
+ 0002:00000138       _Module1                   004f3138     test.OBJ
+ 0002:00000150       ___vba@04336E08            004f3150     test.OBJ
+ 0002:00000164       ___vba@04336E20            004f3164     test.OBJ
+ 0002:00000178       _Module2                   004f3178     test.OBJ
+ 0002:00000188       _Top                       004f3188     test.OBJ
+ 0002:00000acc       ___vba@083D84BC            004f3acc     test.OBJ
+ 0002:00000ff4       ___vba@083A95EC            004f3ff4     test.OBJ
+ 0002:0000171c       ___vba@043770F4            004f471c     test.OBJ
+ 0002:00001e2c       ___vba@043AA7C4            004f4e2c     test.OBJ
+ 0002:00002550       ___vba@07E73154            004f5550     test.OBJ
+ 0002:00002c68       ___vba@0437AAFC            004f5c68     test.OBJ
+ 0002:00003384       ___vba@07EEE174            004f6384     test.OBJ
+ 0002:00003aa8       ___vba@043769AC            004f6aa8     test.OBJ
+ 0002:000041b8       ___vba@04376264            004f71b8     test.OBJ
+ 0002:000048c8       ___vba@04334BCC            004f78c8     test.OBJ
+ 0002:00005004       ___vba@07E91894            004f8004     test.OBJ
+ 0002:00005718       ___vba@083AFB5C            004f8718     test.OBJ
+ 0002:0000603c       ___vba@07E886CC            004f903c     test.OBJ
+ 0002:000069d8       ___vba@0848F9AC            004f99d8     test.OBJ
+ 0002:00006a5c       ___vba@083E7BB4            004f9a5c     test.OBJ
+ 0002:00007174       ___vba@084CA93C            004fa174     test.OBJ
+ 0002:0000788c       ___vba@083BDE0C            004fa88c     test.OBJ
+
+ entry point at        0001:00001eb8
+
+ Static symbols
+
+
+ 304 bytes saved through ICF
+
